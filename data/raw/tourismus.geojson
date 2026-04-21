@@ -1,0 +1,2560 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-04-21T06:55:42Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/29995256",
+        "addr:postcode": "8008",
+        "fee": "yes",
+        "leisure": "park",
+        "name": "Chinagarten Zürich",
+        "name:ko": "중국 정원",
+        "opening_hours": "Mar 17-Oct 21 11:00-19:00",
+        "operator": "Grün Stadt Zürich",
+        "operator:type": "public",
+        "operator:wikidata": "Q1551785",
+        "operator:wikipedia": "de:Grün Stadt Zürich",
+        "phone": "+41444121561",
+        "start_date": "1994",
+        "tourism": "attraction",
+        "website": "https://www.stadt-zuerich.ch/de/stadtleben/sport-und-erholung/park-und-gruenanlagen/chinagarten.html",
+        "wheelchair": "limited",
+        "wikidata": "Q688113",
+        "wikimedia_commons": "Category:China Garden Zürich",
+        "wikipedia": "en:Chinese Garden, Zürich"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5518902,
+              47.3546085
+            ],
+            [
+              8.5519179,
+              47.3546172
+            ],
+            [
+              8.5520415,
+              47.3546593
+            ],
+            [
+              8.5523035,
+              47.3547533
+            ],
+            [
+              8.5524827,
+              47.3548187
+            ],
+            [
+              8.5521083,
+              47.3553354
+            ],
+            [
+              8.551978,
+              47.3552925
+            ],
+            [
+              8.5518928,
+              47.3552597
+            ],
+            [
+              8.5517869,
+              47.3552218
+            ],
+            [
+              8.5515,
+              47.3551192
+            ],
+            [
+              8.5515713,
+              47.3550154
+            ],
+            [
+              8.5516614,
+              47.3549053
+            ],
+            [
+              8.5516888,
+              47.3548629
+            ],
+            [
+              8.5516894,
+              47.354852
+            ],
+            [
+              8.5516954,
+              47.3548443
+            ],
+            [
+              8.5517673,
+              47.3547446
+            ],
+            [
+              8.5517873,
+              47.3547416
+            ],
+            [
+              8.5518902,
+              47.3546085
+            ]
+          ]
+        ]
+      },
+      "id": "way/29995256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/39597365",
+        "addr:housenumber": "25",
+        "addr:street": "Sackzelg",
+        "building": "greenhouse",
+        "fee": "no",
+        "name": "Palmenhaus",
+        "opening_hours": "Mo-Su 09:00-17:30",
+        "operator": "Grün Stadt Zürich",
+        "owner": "Immobilien Stadt Zürich (IMMO)",
+        "start_date": "1939..1940",
+        "tourism": "attraction",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4992418,
+              47.3754538
+            ],
+            [
+              8.499424,
+              47.3756064
+            ],
+            [
+              8.4994429,
+              47.3756222
+            ],
+            [
+              8.4991426,
+              47.3757866
+            ],
+            [
+              8.4990589,
+              47.3757164
+            ],
+            [
+              8.4990568,
+              47.3757176
+            ],
+            [
+              8.4989395,
+              47.3756193
+            ],
+            [
+              8.4992418,
+              47.3754538
+            ]
+          ]
+        ]
+      },
+      "id": "way/39597365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/115151559",
+        "attraction": "animal",
+        "name": "Lewa Savanne",
+        "start_date": "2020-06-08",
+        "tourism": "attraction",
+        "website": "https://www.zoo.ch/de/zoobesuch/lebensraeume/lewa-savanne"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5776254,
+              47.3888528
+            ],
+            [
+              8.5778235,
+              47.3885175
+            ],
+            [
+              8.5778097,
+              47.3879126
+            ],
+            [
+              8.5775553,
+              47.3876887
+            ],
+            [
+              8.5781054,
+              47.3872977
+            ],
+            [
+              8.5787185,
+              47.3869766
+            ],
+            [
+              8.5790856,
+              47.3867982
+            ],
+            [
+              8.579149,
+              47.3868282
+            ],
+            [
+              8.5791822,
+              47.3868697
+            ],
+            [
+              8.5792356,
+              47.3870015
+            ],
+            [
+              8.5793957,
+              47.3870813
+            ],
+            [
+              8.5798631,
+              47.3872915
+            ],
+            [
+              8.5809888,
+              47.3875216
+            ],
+            [
+              8.5808877,
+              47.3876255
+            ],
+            [
+              8.5801467,
+              47.3881608
+            ],
+            [
+              8.5800482,
+              47.3882363
+            ],
+            [
+              8.5798317,
+              47.3884118
+            ],
+            [
+              8.5797505,
+              47.3884905
+            ],
+            [
+              8.5797235,
+              47.3884883
+            ],
+            [
+              8.5796937,
+              47.3885391
+            ],
+            [
+              8.5792842,
+              47.388975
+            ],
+            [
+              8.5789962,
+              47.3893129
+            ],
+            [
+              8.5785886,
+              47.3897704
+            ],
+            [
+              8.5784853,
+              47.3898578
+            ],
+            [
+              8.5781457,
+              47.3900526
+            ],
+            [
+              8.5781185,
+              47.3900669
+            ],
+            [
+              8.5780849,
+              47.3900845
+            ],
+            [
+              8.5769706,
+              47.3891434
+            ],
+            [
+              8.577269,
+              47.3890221
+            ],
+            [
+              8.5776254,
+              47.3888528
+            ]
+          ]
+        ]
+      },
+      "id": "way/115151559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/121597493",
+        "amenity": "community_centre",
+        "attraction": "maze",
+        "community_centre": "events_venue",
+        "contact:facebook": "https://www.facebook.com/Labyrinthplatz/",
+        "email": "zuerich@labyrinthplatz.ch",
+        "fee": "no",
+        "garden:type": "community",
+        "leisure": "garden",
+        "name": "Labyrinthplatz",
+        "opening_hours": "24/7",
+        "tourism": "attraction",
+        "website": "https://www.labyrinthplatz.ch/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5296499,
+              47.3770954
+            ],
+            [
+              8.5296403,
+              47.3770453
+            ],
+            [
+              8.5296564,
+              47.376996
+            ],
+            [
+              8.5296962,
+              47.3769533
+            ],
+            [
+              8.529755,
+              47.3769222
+            ],
+            [
+              8.5298259,
+              47.3769065
+            ],
+            [
+              8.5299004,
+              47.376908
+            ],
+            [
+              8.5299698,
+              47.3769265
+            ],
+            [
+              8.5300259,
+              47.3769598
+            ],
+            [
+              8.5300596,
+              47.3769997
+            ],
+            [
+              8.5300734,
+              47.3770446
+            ],
+            [
+              8.5300661,
+              47.3770902
+            ],
+            [
+              8.5300384,
+              47.3771321
+            ],
+            [
+              8.5299929,
+              47.3771661
+            ],
+            [
+              8.5299341,
+              47.3771889
+            ],
+            [
+              8.5298678,
+              47.3771984
+            ],
+            [
+              8.5298004,
+              47.3771936
+            ],
+            [
+              8.5297386,
+              47.3771748
+            ],
+            [
+              8.5296841,
+              47.3771403
+            ],
+            [
+              8.5296499,
+              47.3770954
+            ]
+          ]
+        ]
+      },
+      "id": "way/121597493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/190663510",
+        "attraction": "miniature_train",
+        "name": "Modellbahn",
+        "operator": "Dampf-Modell-Club der Schweiz",
+        "tourism": "attraction",
+        "website": "https://www.dmc-ch.ch/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.486681,
+              47.3973679
+            ],
+            [
+              8.4867635,
+              47.3974487
+            ],
+            [
+              8.4868392,
+              47.3975122
+            ],
+            [
+              8.4869063,
+              47.3975594
+            ],
+            [
+              8.4870078,
+              47.3976226
+            ],
+            [
+              8.4872195,
+              47.3977084
+            ],
+            [
+              8.4873469,
+              47.3977478
+            ],
+            [
+              8.4874839,
+              47.3977752
+            ],
+            [
+              8.4875713,
+              47.3977881
+            ],
+            [
+              8.487756,
+              47.3977976
+            ],
+            [
+              8.4880333,
+              47.3977845
+            ],
+            [
+              8.4884856,
+              47.3977045
+            ],
+            [
+              8.4885142,
+              47.3977625
+            ],
+            [
+              8.4883962,
+              47.3977923
+            ],
+            [
+              8.4884797,
+              47.3979679
+            ],
+            [
+              8.4886721,
+              47.3979918
+            ],
+            [
+              8.4888268,
+              47.3980025
+            ],
+            [
+              8.4890597,
+              47.3979394
+            ],
+            [
+              8.4891744,
+              47.3981543
+            ],
+            [
+              8.488673,
+              47.398177
+            ],
+            [
+              8.4884941,
+              47.3981842
+            ],
+            [
+              8.4882956,
+              47.3981711
+            ],
+            [
+              8.487791,
+              47.398112
+            ],
+            [
+              8.4874339,
+              47.3980755
+            ],
+            [
+              8.4870263,
+              47.3980311
+            ],
+            [
+              8.4867278,
+              47.3980249
+            ],
+            [
+              8.4864283,
+              47.3980385
+            ],
+            [
+              8.4861103,
+              47.3980584
+            ],
+            [
+              8.4855266,
+              47.3981252
+            ],
+            [
+              8.4855151,
+              47.3980704
+            ],
+            [
+              8.4855093,
+              47.3980092
+            ],
+            [
+              8.4855486,
+              47.3976427
+            ],
+            [
+              8.486681,
+              47.3973679
+            ]
+          ]
+        ]
+      },
+      "id": "way/190663510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/289424569",
+        "addr:city": "Zürich",
+        "addr:country": "CH",
+        "addr:housenumber": "19",
+        "addr:postcode": "8001",
+        "addr:street": "Stadthausquai",
+        "building": "yes",
+        "fee": "no",
+        "name": "Fraumünster Kreuzgang",
+        "opening_hours": "Mo-Fr 07:30-18:30; Sa 08:00-18:00",
+        "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement",
+        "tourism": "attraction",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.54096,
+              47.3695314
+            ],
+            [
+              8.5409612,
+              47.3695576
+            ],
+            [
+              8.5409622,
+              47.3695767
+            ],
+            [
+              8.5409751,
+              47.3695764
+            ],
+            [
+              8.5409755,
+              47.369585
+            ],
+            [
+              8.5409641,
+              47.3695853
+            ],
+            [
+              8.5409649,
+              47.3696015
+            ],
+            [
+              8.5409831,
+              47.369601
+            ],
+            [
+              8.5409828,
+              47.369596
+            ],
+            [
+              8.5409912,
+              47.3695958
+            ],
+            [
+              8.5409914,
+              47.3696002
+            ],
+            [
+              8.541014,
+              47.3695997
+            ],
+            [
+              8.5410138,
+              47.3695948
+            ],
+            [
+              8.5410216,
+              47.3695946
+            ],
+            [
+              8.5410218,
+              47.3695992
+            ],
+            [
+              8.5410447,
+              47.3695987
+            ],
+            [
+              8.5410445,
+              47.3695939
+            ],
+            [
+              8.541053,
+              47.3695937
+            ],
+            [
+              8.5410533,
+              47.3695983
+            ],
+            [
+              8.5410756,
+              47.3695978
+            ],
+            [
+              8.5410753,
+              47.3695922
+            ],
+            [
+              8.5410826,
+              47.369592
+            ],
+            [
+              8.5410828,
+              47.3695967
+            ],
+            [
+              8.5411064,
+              47.3695962
+            ],
+            [
+              8.5411061,
+              47.3695911
+            ],
+            [
+              8.5411131,
+              47.369591
+            ],
+            [
+              8.5411133,
+              47.3695951
+            ],
+            [
+              8.541137,
+              47.3695946
+            ],
+            [
+              8.5411368,
+              47.3695898
+            ],
+            [
+              8.5411439,
+              47.3695896
+            ],
+            [
+              8.5411441,
+              47.3695938
+            ],
+            [
+              8.5411617,
+              47.3695934
+            ],
+            [
+              8.5411609,
+              47.3695757
+            ],
+            [
+              8.5411488,
+              47.369576
+            ],
+            [
+              8.5411484,
+              47.3695685
+            ],
+            [
+              8.5411598,
+              47.3695682
+            ],
+            [
+              8.5411587,
+              47.3695461
+            ],
+            [
+              8.5411578,
+              47.3695268
+            ],
+            [
+              8.5411442,
+              47.3695271
+            ],
+            [
+              8.5411438,
+              47.369519
+            ],
+            [
+              8.5411546,
+              47.3695188
+            ],
+            [
+              8.5411536,
+              47.3694985
+            ],
+            [
+              8.5411925,
+              47.3694968
+            ],
+            [
+              8.5411926,
+              47.3694983
+            ],
+            [
+              8.5412017,
+              47.3694979
+            ],
+            [
+              8.5412015,
+              47.3694964
+            ],
+            [
+              8.541339,
+              47.3694902
+            ],
+            [
+              8.5413389,
+              47.3694939
+            ],
+            [
+              8.5413478,
+              47.3694942
+            ],
+            [
+              8.5413504,
+              47.3695351
+            ],
+            [
+              8.5413554,
+              47.3695722
+            ],
+            [
+              8.5413307,
+              47.3695732
+            ],
+            [
+              8.5413321,
+              47.3695896
+            ],
+            [
+              8.5412028,
+              47.3695946
+            ],
+            [
+              8.5412052,
+              47.3696223
+            ],
+            [
+              8.5408112,
+              47.3696378
+            ],
+            [
+              8.540804,
+              47.3695646
+            ],
+            [
+              8.5408019,
+              47.3695404
+            ],
+            [
+              8.5408018,
+              47.3695381
+            ],
+            [
+              8.54096,
+              47.3695314
+            ]
+          ]
+        ]
+      },
+      "id": "way/289424569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/291806413",
+        "attraction": "animal",
+        "name": "Kaeng Krachan Elefantenpark",
+        "start_date": "2014-06-07",
+        "tourism": "attraction",
+        "website": "https://www.zoo.ch/de/zoobesuch/lebensraeume/kaeng-krachan-elefantenpark",
+        "wikimedia_commons": "File:Zoo_Zürich_Kaeng_Krachan_Elefantenpark_8.JPG"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5761683,
+              47.3888959
+            ],
+            [
+              8.576433,
+              47.3882618
+            ],
+            [
+              8.5764045,
+              47.3882039
+            ],
+            [
+              8.5764493,
+              47.3881267
+            ],
+            [
+              8.5763678,
+              47.3880744
+            ],
+            [
+              8.5763719,
+              47.3879476
+            ],
+            [
+              8.5763638,
+              47.3878704
+            ],
+            [
+              8.5764411,
+              47.3878621
+            ],
+            [
+              8.5764615,
+              47.3877739
+            ],
+            [
+              8.5766203,
+              47.3877739
+            ],
+            [
+              8.5767343,
+              47.3874844
+            ],
+            [
+              8.5768283,
+              47.387443
+            ],
+            [
+              8.5769297,
+              47.3875092
+            ],
+            [
+              8.5771216,
+              47.3877209
+            ],
+            [
+              8.5774391,
+              47.3877404
+            ],
+            [
+              8.5775553,
+              47.3876887
+            ],
+            [
+              8.5778097,
+              47.3879126
+            ],
+            [
+              8.5778235,
+              47.3885175
+            ],
+            [
+              8.5776254,
+              47.3888528
+            ],
+            [
+              8.577269,
+              47.3890221
+            ],
+            [
+              8.5769706,
+              47.3891434
+            ],
+            [
+              8.5768649,
+              47.3890393
+            ],
+            [
+              8.5761683,
+              47.3888959
+            ]
+          ]
+        ]
+      },
+      "id": "way/291806413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/291806414",
+        "alt_name": "ex Elefantenhaus",
+        "attraction": "animal",
+        "name": "Mongolische Steppe",
+        "start_date": "2015-03-12",
+        "tourism": "attraction",
+        "website": "https://www.zoo.ch/de/zoobesuch/lebensraeume/mongolische-steppe",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5740405,
+              47.3877234
+            ],
+            [
+              8.5739661,
+              47.3876593
+            ],
+            [
+              8.5738953,
+              47.3874925
+            ],
+            [
+              8.5737846,
+              47.3871995
+            ],
+            [
+              8.5736878,
+              47.3869584
+            ],
+            [
+              8.5741548,
+              47.3869043
+            ],
+            [
+              8.5742274,
+              47.3869534
+            ],
+            [
+              8.5747379,
+              47.3869056
+            ],
+            [
+              8.5747246,
+              47.3871307
+            ],
+            [
+              8.5747029,
+              47.3872124
+            ],
+            [
+              8.5746306,
+              47.3874386
+            ],
+            [
+              8.5745382,
+              47.3875259
+            ],
+            [
+              8.5741975,
+              47.3876867
+            ],
+            [
+              8.5740405,
+              47.3877234
+            ]
+          ]
+        ]
+      },
+      "id": "way/291806414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/338188142",
+        "addr:housenumber": "27b",
+        "addr:street": "Sackzelg",
+        "building": "greenhouse",
+        "fee": "no",
+        "name": "Tropenhaus",
+        "opening_hours": "Mo-Su 09:00-17:30",
+        "operator": "Grün Stadt Zürich",
+        "owner": "Immobilien Stadt Zürich (IMMO)",
+        "start_date": "1961",
+        "tourism": "attraction",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4987184,
+              47.3752873
+            ],
+            [
+              8.4988884,
+              47.375194
+            ],
+            [
+              8.4990971,
+              47.3753684
+            ],
+            [
+              8.4989916,
+              47.3754262
+            ],
+            [
+              8.4989271,
+              47.3754616
+            ],
+            [
+              8.4987184,
+              47.3752873
+            ]
+          ]
+        ]
+      },
+      "id": "way/338188142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1246240117",
+        "attraction": "animal",
+        "name": "Selenga Feuchtgebiet",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5745747,
+              47.3854599
+            ],
+            [
+              8.5748596,
+              47.3853825
+            ],
+            [
+              8.5749982,
+              47.3854269
+            ],
+            [
+              8.575213,
+              47.3863006
+            ],
+            [
+              8.5747941,
+              47.3863573
+            ],
+            [
+              8.5746661,
+              47.3861882
+            ],
+            [
+              8.5745427,
+              47.386116
+            ],
+            [
+              8.5744147,
+              47.3855744
+            ],
+            [
+              8.5744497,
+              47.3855084
+            ],
+            [
+              8.5745747,
+              47.3854599
+            ]
+          ]
+        ]
+      },
+      "id": "way/1246240117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1362028241",
+        "area": "yes",
+        "attraction": "animal",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5759651,
+              47.3869185
+            ],
+            [
+              8.5760542,
+              47.386922
+            ],
+            [
+              8.5760835,
+              47.3869389
+            ],
+            [
+              8.5761646,
+              47.3869495
+            ],
+            [
+              8.5761594,
+              47.3869806
+            ],
+            [
+              8.5762002,
+              47.3870122
+            ],
+            [
+              8.5762531,
+              47.3870122
+            ],
+            [
+              8.5762554,
+              47.3870611
+            ],
+            [
+              8.576224,
+              47.3870754
+            ],
+            [
+              8.5762794,
+              47.3872051
+            ],
+            [
+              8.576318,
+              47.3872497
+            ],
+            [
+              8.5763009,
+              47.3872743
+            ],
+            [
+              8.5763005,
+              47.3872866
+            ],
+            [
+              8.5762565,
+              47.387308
+            ],
+            [
+              8.5762169,
+              47.3873328
+            ],
+            [
+              8.5761907,
+              47.3873707
+            ],
+            [
+              8.5761862,
+              47.3874126
+            ],
+            [
+              8.576196,
+              47.3874538
+            ],
+            [
+              8.5761591,
+              47.387488
+            ],
+            [
+              8.576104,
+              47.3875504
+            ],
+            [
+              8.5760045,
+              47.3875558
+            ],
+            [
+              8.5760116,
+              47.3877007
+            ],
+            [
+              8.5759159,
+              47.3877533
+            ],
+            [
+              8.5759001,
+              47.38775
+            ],
+            [
+              8.5758272,
+              47.3877325
+            ],
+            [
+              8.5758509,
+              47.3876449
+            ],
+            [
+              8.5758293,
+              47.3876271
+            ],
+            [
+              8.5757295,
+              47.3876045
+            ],
+            [
+              8.5756261,
+              47.3875809
+            ],
+            [
+              8.575797,
+              47.3873214
+            ],
+            [
+              8.5758934,
+              47.387025
+            ],
+            [
+              8.5759651,
+              47.3869185
+            ]
+          ]
+        ]
+      },
+      "id": "way/1362028241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/102017868",
+        "foot": "yes",
+        "ford": "stepping_stones",
+        "highway": "footway",
+        "name:signed": "no",
+        "surface": "rock",
+        "tourism": "attraction",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.551035,
+            47.3532141
+          ],
+          [
+            8.5510204,
+            47.3532291
+          ],
+          [
+            8.5509623,
+            47.3532914
+          ],
+          [
+            8.5508456,
+            47.3532429
+          ],
+          [
+            8.5508348,
+            47.3532384
+          ],
+          [
+            8.5507858,
+            47.3532869
+          ],
+          [
+            8.5507646,
+            47.3532895
+          ],
+          [
+            8.5507169,
+            47.3533459
+          ],
+          [
+            8.550697,
+            47.3533842
+          ]
+        ]
+      },
+      "id": "way/102017868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1133018057",
+        "foot": "yes",
+        "ford": "stepping_stones",
+        "highway": "footway",
+        "name:signed": "no",
+        "surface": "rock",
+        "tourism": "attraction",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5509623,
+            47.3532914
+          ],
+          [
+            8.5509548,
+            47.3533038
+          ],
+          [
+            8.5510748,
+            47.3533526
+          ]
+        ]
+      },
+      "id": "way/1133018057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1133018058",
+        "foot": "yes",
+        "ford": "stepping_stones",
+        "highway": "footway",
+        "name:signed": "no",
+        "surface": "rock",
+        "tourism": "attraction",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5508456,
+            47.3532429
+          ],
+          [
+            8.550885,
+            47.3531997
+          ],
+          [
+            8.5508572,
+            47.3531893
+          ],
+          [
+            8.5508572,
+            47.3531834
+          ],
+          [
+            8.5508844,
+            47.3531547
+          ],
+          [
+            8.5509128,
+            47.3531282
+          ]
+        ]
+      },
+      "id": "way/1133018058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/268473573",
+        "name": "Galerie Bruno Bischofberger",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5465199,
+          47.364233
+        ]
+      },
+      "id": "node/268473573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/414207604",
+        "email": "info@dampfbahn-katzensee.ch",
+        "name": "Dampfbahn Katzensee",
+        "opening_hours": "Sa 13:30-18:00; Su 10:00-18:00",
+        "phone": "+41 44 371 82 77",
+        "tourism": "attraction",
+        "website": "https://www.dampfbahn-katzensee.ch/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4891644,
+          47.4293413
+        ]
+      },
+      "id": "node/414207604"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/678868180",
+        "name": "Velo Parcour",
+        "tourism": "attraction",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5397682,
+          47.4151301
+        ]
+      },
+      "id": "node/678868180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/763169808",
+        "name": "Alte Militärkaserne",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5330846,
+          47.3757764
+        ]
+      },
+      "id": "node/763169808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/897566056",
+        "attraction": "animal",
+        "name": "Seehund",
+        "name:en": "Seal",
+        "tourism": "attraction",
+        "wheelchair": "limited",
+        "wikimedia_commons": "File:ZooZürich_-_Phoca_vitulina_vitulina_4.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5716951,
+          47.3846933
+        ]
+      },
+      "id": "node/897566056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/897566067",
+        "attraction": "animal",
+        "name": "Schildkröten",
+        "name:en": "Tortoises",
+        "tourism": "attraction",
+        "wheelchair": "yes",
+        "wikimedia_commons": "File:Zoo_ZH_DSC_3866_(4835121195).jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5729903,
+          47.3843307
+        ]
+      },
+      "id": "node/897566067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/897566069",
+        "attraction": "animal",
+        "fixme": "Check prescence here.",
+        "name": "Darvin-Nandus",
+        "name:en": "Lesser Rhea",
+        "species:wikidata": "Q733120",
+        "species:wikipedia": "en:Darwin's rhea",
+        "tourism": "attraction",
+        "wheelchair": "yes",
+        "wikimedia_commons": "File:ZooZürich_-_Pterocnemia_pennata.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5721877,
+          47.3853297
+        ]
+      },
+      "id": "node/897566069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/897566073",
+        "attraction": "animal",
+        "name": "Europäischer Fischotter",
+        "name:en": "Eurasian otter",
+        "tourism": "attraction",
+        "wheelchair": "limited",
+        "wikimedia_commons": "File:Stehender_Fischotter.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5713219,
+          47.3843311
+        ]
+      },
+      "id": "node/897566073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/897566079",
+        "attraction": "animal",
+        "name": "Hauskamel/Trampeltier",
+        "name:en": "Bactrian camel",
+        "species:wikidata": "Q132922",
+        "tourism": "attraction",
+        "wheelchair": "yes",
+        "wikimedia_commons": "File:Zürich_Zoo_(26222560873).jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5744199,
+          47.3867367
+        ]
+      },
+      "id": "node/897566079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/897566082",
+        "attraction": "animal",
+        "name": "Vikunja",
+        "name:en": "Vicuña",
+        "species:wikidata": "Q167797",
+        "species:wikipedia": "en:Vicugna vicugna",
+        "tourism": "attraction",
+        "wheelchair": "yes",
+        "wikimedia_commons": "File:Vikunjas.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5723106,
+          47.3855464
+        ]
+      },
+      "id": "node/897566082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/897566091",
+        "attraction": "animal",
+        "name": "Alpaka",
+        "name:en": "Alpaca",
+        "species:wikidata": "Q81564",
+        "species:wikipedia": "en:Vicugna pacos",
+        "tourism": "attraction",
+        "wheelchair": "yes",
+        "wikimedia_commons": "File:50_Jahre_Knie's_Kinderzoo_-_Vicugna_pacos_(Alpaka)_2012-10-03_16-15-20.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5718293,
+          47.3851697
+        ]
+      },
+      "id": "node/897566091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/897566095",
+        "attraction": "animal",
+        "name": "Grevyzebra",
+        "name:en": "Grévy's zebra",
+        "species:wikidata": "Q32789",
+        "species:wikipedia": "en:Zebra",
+        "tourism": "attraction",
+        "wheelchair": "yes",
+        "wikimedia_commons": "File:Zoo_ZH_DSC_3891_(4835731616).jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.578752,
+          47.3885508
+        ]
+      },
+      "id": "node/897566095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/897566103",
+        "attraction": "animal",
+        "name": "Kappengibbons",
+        "name:en": "Pileated gibbons",
+        "tourism": "attraction",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.57219,
+          47.3851583
+        ]
+      },
+      "id": "node/897566103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/897566105",
+        "attraction": "animal",
+        "name": "Chileflamingo",
+        "name:en": "Flamingo",
+        "species:wikidata": "Q41994",
+        "tourism": "attraction",
+        "wikimedia_commons": "File:50_Jahre_Knie's_Kinderzoo_-_Flamingos_2012-10-03_16-48-31.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5747145,
+          47.3856241
+        ]
+      },
+      "id": "node/897566105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1336871578",
+        "attraction": "animal",
+        "name": "Schwarzes Alpenschwein",
+        "name:en": "Black Alpine Pig",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5772568,
+          47.3859795
+        ]
+      },
+      "id": "node/1336871578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1336871580",
+        "attraction": "animal",
+        "name": "Westafrikanische Zwergziegen",
+        "name:en": "Pygmy goats",
+        "tourism": "attraction",
+        "wikimedia_commons": "File:ZooZürich_-_Capra_hircus_1.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5767081,
+          47.3864715
+        ]
+      },
+      "id": "node/1336871580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1336871585",
+        "attraction": "animal",
+        "name": "Fledermäuse",
+        "name:en": "Bats",
+        "operator": "Stiftung Fledermausschutz",
+        "tourism": "attraction",
+        "website": "https://www.fledermausschutz.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5779974,
+          47.3854445
+        ]
+      },
+      "id": "node/1336871585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1336871588",
+        "attraction": "animal",
+        "name": "Hausmeerschweinchen",
+        "name:en": "Guinea pigs",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5769266,
+          47.386364
+        ]
+      },
+      "id": "node/1336871588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1336871591",
+        "attraction": "animal",
+        "fixme": "Check prescence here.",
+        "name": "Pferd",
+        "name:en": "Horse",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5776542,
+          47.3857764
+        ]
+      },
+      "id": "node/1336871591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1336871593",
+        "attraction": "animal",
+        "name": "Schweizerhuhn",
+        "name:en": "Swiss Chicken",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5771395,
+          47.3861147
+        ]
+      },
+      "id": "node/1336871593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1336871600",
+        "attraction": "animal",
+        "fixme": "Check prescence here.",
+        "name": "Präriehund",
+        "name:en": "Prairie dog",
+        "tourism": "attraction",
+        "wikimedia_commons": "File:Präriehund.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5775532,
+          47.385934
+        ]
+      },
+      "id": "node/1336871600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1353510296",
+        "attraction": "animal",
+        "name": "Amurtiger",
+        "name:en": "Amur Tigers",
+        "species:wikidata": "Q69581",
+        "tourism": "attraction",
+        "wheelchair": "limited",
+        "wikimedia_commons": "File:Zürich_Zoo_Amur_Tiger_(17165436158).jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5735886,
+          47.3877147
+        ]
+      },
+      "id": "node/1353510296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1353510308",
+        "attraction": "animal",
+        "name": "Asiatischer Löwe",
+        "name:en": "Asiatic lion",
+        "tourism": "attraction",
+        "wikimedia_commons": "File:Indischer_Löwe_Zoo_Zürich_5.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5730989,
+          47.3864402
+        ]
+      },
+      "id": "node/1353510308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1357645261",
+        "attraction": "animal",
+        "name": "Schmutzgeier",
+        "name:en": "Egyptian vultures",
+        "tourism": "attraction",
+        "wheelchair": "yes",
+        "wikimedia_commons": "File:Neophron_percnopterus_at_Zürich_Zoological_Garden_01.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5727505,
+          47.3859235
+        ]
+      },
+      "id": "node/1357645261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1977024736",
+        "attraction": "animal",
+        "name": "Brillenbären",
+        "name:en": "Spectacled bears",
+        "species:wikidata": "Q137641",
+        "species:wikipedia": "en:Spectacled bear",
+        "tourism": "attraction",
+        "wheelchair": "yes",
+        "wikimedia_commons": "File:Brillenbär_im_verschneiten_Zoo_3.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5729788,
+          47.3849773
+        ]
+      },
+      "id": "node/1977024736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1977024737",
+        "attraction": "animal",
+        "fixme": "Check prescence here.",
+        "name": "Nasenbär",
+        "name:en": "Nasua",
+        "tourism": "attraction",
+        "wikimedia_commons": "File:Zoo_Zuerich_Nasenbär.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5732929,
+          47.3857186
+        ]
+      },
+      "id": "node/1977024737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1977024854",
+        "attraction": "animal",
+        "name": "Schneeleopard",
+        "name:en": "Snow leopard",
+        "tourism": "attraction",
+        "wheelchair": "limited",
+        "wikimedia_commons": "File:Uncia_uncia_-Zurich_Zoo,_Switzerland-8a_(5).jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5729366,
+          47.387411
+        ]
+      },
+      "id": "node/1977024854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2953133653",
+        "attraction": "animal",
+        "fixme": "Check the correct position. (Offical map POI is more south.)",
+        "name": "Kleiner Panda",
+        "name:en": "Red panda",
+        "species:wikidata": "Q41960",
+        "tourism": "attraction",
+        "wheelchair": "limited",
+        "wikimedia_commons": "File:Red_panda_–_Zürich_Zoo_6.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5731119,
+          47.3871711
+        ]
+      },
+      "id": "node/2953133653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3395919442",
+        "level": "0",
+        "name": "Stadtmodell 1800",
+        "opening_hours": "Mo-Fr 08:00-18:00; Sa 10:00-16:00",
+        "room": "exhibition",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5457293,
+          47.3723715
+        ]
+      },
+      "id": "node/3395919442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3723063459",
+        "attraction": "animal",
+        "name": "Hausyak",
+        "name:en": "Wild yaks",
+        "tourism": "attraction",
+        "wheelchair": "yes",
+        "wikimedia_commons": "File:Yak_im_verschneiten_Zoo.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5743862,
+          47.3871991
+        ]
+      },
+      "id": "node/3723063459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4361600489",
+        "name:es": "Comienzo Calle Medieval",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5404741,
+          47.3715538
+        ]
+      },
+      "id": "node/4361600489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5060925271",
+        "attraction": "animal",
+        "name": "Asiatischer Elefant (Auslauf)",
+        "name:en": "Asian Elephant",
+        "tourism": "attraction",
+        "wikimedia_commons": "File:Zoo_Zürich_Kaeng_Krachan_Elefantenpark_7.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5769361,
+          47.3878937
+        ]
+      },
+      "id": "node/5060925271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5422852008",
+        "attraction": "animal",
+        "fixme": "Check prescence here.",
+        "name": "Allfarblori",
+        "name:en": "Coconut lorikeet",
+        "tourism": "attraction",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5718242,
+          47.3840049
+        ]
+      },
+      "id": "node/5422852008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5423132184",
+        "attraction": "animal",
+        "name": "Arabischer Oryx",
+        "name:en": "Arabian oryx",
+        "species:wikidata": "Q237286",
+        "species:wikipedia": "en:Arabian oryx",
+        "tourism": "attraction",
+        "wheelchair": "yes",
+        "wikimedia_commons": "File:Oryx_leucoryx_Zoo_Zürich_1.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5738267,
+          47.3864546
+        ]
+      },
+      "id": "node/5423132184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5665865091",
+        "attraction": "animal",
+        "name": "Koala",
+        "name:en": "Koala",
+        "species:wikidata": "Q36101",
+        "species:wikipedia": "en:Koala",
+        "tourism": "attraction",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5723367,
+          47.3842914
+        ]
+      },
+      "id": "node/5665865091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5665865092",
+        "attraction": "animal",
+        "name": "Bennett-Wallaby",
+        "name:en": "Bennett's wallaby",
+        "species:wikidata": "Q249024",
+        "tourism": "attraction",
+        "wheelchair": "yes",
+        "wikimedia_commons": "File:Sumpf-wallaby.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5722749,
+          47.3845477
+        ]
+      },
+      "id": "node/5665865092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5665865093",
+        "attraction": "animal",
+        "name": "Riesenwarane",
+        "name:en": "Perenties",
+        "tourism": "attraction",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5725873,
+          47.3846782
+        ]
+      },
+      "id": "node/5665865093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5665865094",
+        "attraction": "animal",
+        "name": "Grosser Emu",
+        "name:en": "Emu",
+        "species:wikidata": "Q93208",
+        "species:wikipedia": "en:Emu",
+        "tourism": "attraction",
+        "wheelchair": "yes",
+        "wikimedia_commons": "File:Emu.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5718239,
+          47.3842302
+        ]
+      },
+      "id": "node/5665865094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6557001372",
+        "animal": "Damhirsch",
+        "attraction": "animal",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.517346,
+          47.4004181
+        ]
+      },
+      "id": "node/6557001372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6636792366",
+        "drinking_water": "no",
+        "name": "Wasserrad",
+        "tourism": "attraction",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5683957,
+          47.4006696
+        ]
+      },
+      "id": "node/6636792366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6935106436",
+        "attraction": "animal",
+        "name": "Pferd",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5240379,
+          47.3520899
+        ]
+      },
+      "id": "node/6935106436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7050244186",
+        "level": "-1",
+        "name": "Stadtmodell Zürich Heute",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.540185,
+          47.3741346
+        ]
+      },
+      "id": "node/7050244186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7405145702",
+        "attraction": "animal",
+        "name": "Netzgiraffe",
+        "name:en": "Reticulated giraffe",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5791514,
+          47.3878707
+        ]
+      },
+      "id": "node/7405145702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7405145704",
+        "attraction": "animal",
+        "name": "Südliches Breitmaulnashorn",
+        "name:en": "White rhinoceros",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.578335,
+          47.3883338
+        ]
+      },
+      "id": "node/7405145704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7405145705",
+        "attraction": "animal",
+        "name": "Erdmännchen",
+        "name:en": "Meerkat",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5782311,
+          47.3878274
+        ]
+      },
+      "id": "node/7405145705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7405145706",
+        "attraction": "animal",
+        "name": "Dahomey-Zwergrind",
+        "name:en": "Dahomey cattle",
+        "tourism": "attraction",
+        "wikimedia_commons": "File:2023-09-24_Dahomey_cattle_-_Zoo_Zurich.jpg",
+        "wikipedia": "de:Dahomey-Zwergrind"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5785962,
+          47.3872801
+        ]
+      },
+      "id": "node/7405145706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7423846036",
+        "access": "yes",
+        "bottle": "no",
+        "dog": "no",
+        "drinking_water": "no",
+        "man_made": "water_well",
+        "material": "metal",
+        "name": "Sodbrunnen",
+        "pump": "no",
+        "tourism": "attraction",
+        "wheelchair": "no",
+        "wikidata": "Q94701082"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5395733,
+          47.3730554
+        ]
+      },
+      "id": "node/7423846036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7525827083",
+        "attraction": "animal",
+        "name": "Säbelantilope",
+        "name:en": "Scimitar oryx",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5789086,
+          47.3881426
+        ]
+      },
+      "id": "node/7525827083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7525849085",
+        "attraction": "animal",
+        "name": "Nacktmull",
+        "name:en": "Naked mole-rat",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5776779,
+          47.3890874
+        ]
+      },
+      "id": "node/7525849085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8549395314",
+        "attraction": "animal",
+        "name": "Roter Ibis",
+        "name:en": "Scarlet Ibis",
+        "species:wikidata": "Q467996",
+        "tourism": "attraction",
+        "wikimedia_commons": "File:ZooZürich_Eudocimus_ruber_04.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5745377,
+          47.3848643
+        ]
+      },
+      "id": "node/8549395314"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9595183196",
+        "attraction": "animal",
+        "name": "Lama",
+        "name:en": "Llama",
+        "tourism": "attraction",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5712065,
+          47.384792
+        ]
+      },
+      "id": "node/9595183196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9595183197",
+        "attraction": "animal",
+        "name": "Lachender Hans",
+        "name:de": "Jägerliest",
+        "name:en": "Laughing kookaburra",
+        "tourism": "attraction",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5725921,
+          47.3847652
+        ]
+      },
+      "id": "node/9595183197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9952171531",
+        "attraction": "animal",
+        "name": "Spaltenschildkröte",
+        "name:en": "Pancake tortoise",
+        "species:wikidata": "Q832357",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5798933,
+          47.3877398
+        ]
+      },
+      "id": "node/9952171531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9952171532",
+        "attraction": "animal",
+        "name": "Felsenschildechse",
+        "name:en": "giant plated lizard",
+        "species:wikidata": "Q3061063",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5798653,
+          47.3877842
+        ]
+      },
+      "id": "node/9952171532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13084035851",
+        "name": "Giraffenfütterung",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5792235,
+          47.3874219
+        ]
+      },
+      "id": "node/13084035851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13084035852",
+        "name": "Giraffenfütterung",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5778233,
+          47.3891541
+        ]
+      },
+      "id": "node/13084035852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13084035853",
+        "name": "Kamele hautnah",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.574231,
+          47.3872729
+        ]
+      },
+      "id": "node/13084035853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13084191847",
+        "attraction": "animal",
+        "name": "Dschelada",
+        "name:en": "Gelada",
+        "tourism": "attraction",
+        "wikimedia_commons": "File:ZooZürich_-_Theropithecus_gelada_17.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5760022,
+          47.3874173
+        ]
+      },
+      "id": "node/13084191847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13084270715",
+        "attraction": "animal",
+        "name": "Königspinguin",
+        "name:en": "King Penguin",
+        "species:wikidata": "Q182209",
+        "tourism": "attraction",
+        "wheelchair": "yes",
+        "wikimedia_commons": "File:King_penguin_–_Zürich_Zoo_06.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5745209,
+          47.3851918
+        ]
+      },
+      "id": "node/13084270715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13432082452",
+        "ele": "580",
+        "name": "Lewa Airstrip",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5780446,
+          47.3876126
+        ]
+      },
+      "id": "node/13432082452"
+    }
+  ]
+}

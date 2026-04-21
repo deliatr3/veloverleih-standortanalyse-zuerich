@@ -1,0 +1,5115 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-04-21T06:56:47Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/617518837",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "network": "Publibike",
+        "operator": "Stadt Zürich / Publibike",
+        "payment:credit_cards": "yes",
+        "survey:date": "2025-10-30"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5336058,
+              47.3980746
+            ],
+            [
+              8.5336101,
+              47.3980626
+            ],
+            [
+              8.5337444,
+              47.3980845
+            ],
+            [
+              8.5337401,
+              47.3980965
+            ],
+            [
+              8.5336058,
+              47.3980746
+            ]
+          ]
+        ]
+      },
+      "id": "way/617518837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1070119749",
+        "amenity": "bicycle_rental",
+        "disused:amenity": "parking"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5603347,
+              47.3768681
+            ],
+            [
+              8.5603552,
+              47.3768595
+            ],
+            [
+              8.5604874,
+              47.3770043
+            ],
+            [
+              8.560467,
+              47.3770128
+            ],
+            [
+              8.5603347,
+              47.3768681
+            ]
+          ]
+        ]
+      },
+      "id": "way/1070119749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1156088191",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "network": "Züri Velo",
+        "not:brand:wikidata": "Q56314221",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5234537,
+              47.3709116
+            ],
+            [
+              8.5236099,
+              47.3707417
+            ],
+            [
+              8.5236298,
+              47.3707501
+            ],
+            [
+              8.5234737,
+              47.37092
+            ],
+            [
+              8.5234537,
+              47.3709116
+            ]
+          ]
+        ]
+      },
+      "id": "way/1156088191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1262718525",
+        "amenity": "bicycle_rental",
+        "fee": "yes",
+        "name": "Amikahof",
+        "operator": "Züri Velo",
+        "parking": "lane"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5307611,
+              47.4160304
+            ],
+            [
+              8.530757,
+              47.4160473
+            ],
+            [
+              8.5306227,
+              47.4160324
+            ],
+            [
+              8.5306268,
+              47.4160156
+            ],
+            [
+              8.5307611,
+              47.4160304
+            ]
+          ]
+        ]
+      },
+      "id": "way/1262718525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1271547124",
+        "amenity": "bicycle_rental",
+        "fee": "yes",
+        "name": "Viktoriastrasse",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5505375,
+              47.4031707
+            ],
+            [
+              8.550512,
+              47.4030116
+            ],
+            [
+              8.550537,
+              47.4030098
+            ],
+            [
+              8.5505625,
+              47.4031689
+            ],
+            [
+              8.5505375,
+              47.4031707
+            ]
+          ]
+        ]
+      },
+      "id": "way/1271547124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1284764689",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Tüffenwies",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:wikidata": "Q3555363",
+        "source": "Stadt Zürich; CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4936277,
+              47.3985365
+            ],
+            [
+              8.4938324,
+              47.3985411
+            ],
+            [
+              8.4938314,
+              47.3985626
+            ],
+            [
+              8.4936267,
+              47.3985581
+            ],
+            [
+              8.4936277,
+              47.3985365
+            ]
+          ]
+        ]
+      },
+      "id": "way/1284764689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1448374086",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Josefwiese",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5246502,
+              47.3860263
+            ],
+            [
+              8.5246369,
+              47.3860134
+            ],
+            [
+              8.5247349,
+              47.385967
+            ],
+            [
+              8.5247482,
+              47.3859799
+            ],
+            [
+              8.5246502,
+              47.3860263
+            ]
+          ]
+        ]
+      },
+      "id": "way/1448374086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1478604272",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "network": "Züri Velo",
+        "not:brand:wikidata": "Q56314221",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4961973,
+              47.3677741
+            ],
+            [
+              8.4962073,
+              47.3677546
+            ],
+            [
+              8.4963177,
+              47.3677805
+            ],
+            [
+              8.4963077,
+              47.3678
+            ],
+            [
+              8.4961973,
+              47.3677741
+            ]
+          ]
+        ]
+      },
+      "id": "way/1478604272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1478604273",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "network": "Züri Velo",
+        "not:brand:wikidata": "Q56314221",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5027927,
+              47.3653567
+            ],
+            [
+              8.5028898,
+              47.3654074
+            ],
+            [
+              8.5028761,
+              47.3654195
+            ],
+            [
+              8.5027789,
+              47.3653688
+            ],
+            [
+              8.5027927,
+              47.3653567
+            ]
+          ]
+        ]
+      },
+      "id": "way/1478604273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1478604274",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "network": "Züri Velo",
+        "not:brand:wikidata": "Q56314221",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4937371,
+              47.3710522
+            ],
+            [
+              8.4937264,
+              47.371039
+            ],
+            [
+              8.4938248,
+              47.3710024
+            ],
+            [
+              8.4938355,
+              47.3710155
+            ],
+            [
+              8.4937371,
+              47.3710522
+            ]
+          ]
+        ]
+      },
+      "id": "way/1478604274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2926482806",
+        "addr:city": "Zürich",
+        "addr:housenumber": "100",
+        "addr:postcode": "8004",
+        "addr:street": "Kasernenstrasse",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "branch": "Velostation Europaplatz",
+        "brand": "Züri rollt",
+        "covered": "yes",
+        "fee": "no",
+        "level": "-1",
+        "name": "Züri rollt - Velostation Europaplatz",
+        "opening_hours": "08:00-21:30",
+        "operator": "AOZ Züri rollt",
+        "website": "http://www.zuerirollt.ch/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5359863,
+          47.377947
+        ]
+      },
+      "id": "node/2926482806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3051689945",
+        "alt_name": "m-way Shop Zürich",
+        "amenity": "bicycle_rental",
+        "brand": "m-way",
+        "disused:shop": "bicycle",
+        "name": "m-way",
+        "opening_hours": "closed",
+        "operator": "m-way AG",
+        "website": "https://m-way.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5370346,
+          47.3662674
+        ]
+      },
+      "id": "node/3051689945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4046109727",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "covered": "no",
+        "name": "Beatenplatz",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "survey:date": "2025-11-10",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.541246,
+          47.3758959
+        ]
+      },
+      "id": "node/4046109727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5526885383",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Sportweg",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5060721,
+          47.3919133
+        ]
+      },
+      "id": "node/5526885383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5578638415",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Herdern",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5105425,
+          47.3898707
+        ]
+      },
+      "id": "node/5578638415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5580046738",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Bahnhof Wiedikon",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5236208,
+          47.3716303
+        ]
+      },
+      "id": "node/5580046738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5584578721",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Bahnhof Altstetten",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "survey:date": "2025-11-23",
+        "website": "https://www.publibike.ch/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4885108,
+          47.3912764
+        ]
+      },
+      "id": "node/5584578721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5601015494",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "covered": "no",
+        "name": "Stampfenbachplatz",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5423381,
+          47.3801344
+        ]
+      },
+      "id": "node/5601015494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5601015495",
+        "amenity": "bicycle_rental",
+        "covered": "no",
+        "name": "Weststrasse",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5204744,
+          47.3720929
+        ]
+      },
+      "id": "node/5601015495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5637859359",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5067705,
+          47.407775
+        ]
+      },
+      "id": "node/5637859359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5640506927",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Luggwegstrasse VBZ",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4908317,
+          47.3865993
+        ]
+      },
+      "id": "node/5640506927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5647919899",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "covered": "no",
+        "name": "Kunsthaus",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5480925,
+          47.3708308
+        ]
+      },
+      "id": "node/5647919899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5647919900",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5571039,
+          47.3585617
+        ]
+      },
+      "id": "node/5647919900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5647919901",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Vulkanplatz",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4910625,
+          47.3923158
+        ]
+      },
+      "id": "node/5647919901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5649701031",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "check_date": "2026-03-23",
+        "covered": "no",
+        "name": "Förrlibuckstrasse",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5181465,
+          47.391803
+        ]
+      },
+      "id": "node/5649701031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5653606823",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Lindenplatz",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4861593,
+          47.3877047
+        ]
+      },
+      "id": "node/5653606823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5653606824",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "check_date": "2024-03-03",
+        "covered": "no",
+        "name": "Zwinglihaus",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5155218,
+          47.3718889
+        ]
+      },
+      "id": "node/5653606824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5653966053",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Kreuzplatz",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5541079,
+          47.3650938
+        ]
+      },
+      "id": "node/5653966053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5681972773",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Bederbrücke",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.530941,
+          47.3651058
+        ]
+      },
+      "id": "node/5681972773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5701755086",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Luggweg",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "survey:date": "2025-11-23",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4917692,
+          47.3898981
+        ]
+      },
+      "id": "node/5701755086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5701755087",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Grünau",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4859869,
+          47.3963958
+        ]
+      },
+      "id": "node/5701755087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5717871986",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "shop",
+        "branch": "Pestalozziwiese (Bahnhofstrasse)",
+        "brand": "Züri rollt",
+        "fee": "no",
+        "name": "Züri rollt - Pestalozziwiese (Bahnhofstrasse)",
+        "opening_hours": "Apr-Oct 09:00-21:30",
+        "operator": "AOZ Züri rollt",
+        "seasonal": "yes",
+        "shop": "rental",
+        "website": "http://www.zuerirollt.ch/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5381643,
+          47.3754982
+        ]
+      },
+      "id": "node/5717871986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5717872007",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Seebad Utoquai",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5476253,
+          47.3613111
+        ]
+      },
+      "id": "node/5717872007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5725710595",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Escher-Wyss-Platz",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.523717,
+          47.3898837
+        ]
+      },
+      "id": "node/5725710595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5736721111",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "covered": "no",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5251999,
+          47.3661538
+        ]
+      },
+      "id": "node/5736721111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5752415556",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "check_date": "2024-05-10",
+        "covered": "no",
+        "name": "ETH / Naturhistorisches Museum UZH",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5477379,
+          47.375557
+        ]
+      },
+      "id": "node/5752415556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5752415557",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Landesmuseum",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5412616,
+          47.3789441
+        ]
+      },
+      "id": "node/5752415557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5753954748",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "covered": "no",
+        "name": "Werd",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "survey:date": "2025-11-10",
+        "website": "https://www.publibike.ch/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5264058,
+          47.3724916
+        ]
+      },
+      "id": "node/5753954748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5754436459",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "covered": "no",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.533738,
+          47.3669331
+        ]
+      },
+      "id": "node/5754436459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5754436461",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "covered": "no",
+        "name": "Predigerplatz",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.545439,
+          47.3736749
+        ]
+      },
+      "id": "node/5754436461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5754436462",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Pelikanplatz",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5360112,
+          47.3710748
+        ]
+      },
+      "id": "node/5754436462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5754436463",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "covered": "no",
+        "name": "Central",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5434359,
+          47.3761054
+        ]
+      },
+      "id": "node/5754436463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5754436466",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "check_date": "2024-02-21",
+        "covered": "no",
+        "name": "Gessnerallee",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5354957,
+          47.3759239
+        ]
+      },
+      "id": "node/5754436466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5754436467",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "covered": "no",
+        "name": "Stauffacherbrücke",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5313039,
+          47.3713368
+        ]
+      },
+      "id": "node/5754436467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5754436468",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "check_date": "2024-04-01",
+        "covered": "no",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5450232,
+          47.3667157
+        ]
+      },
+      "id": "node/5754436468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5754436470",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Sihlpost",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "survey:date": "2025-11-10",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5359,
+          47.3773897
+        ]
+      },
+      "id": "node/5754436470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5754436471",
+        "amenity": "bicycle_rental",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "covered": "no",
+        "name": "Kantonalbank",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5394152,
+          47.3677681
+        ]
+      },
+      "id": "node/5754436471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5754436473",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "covered": "no",
+        "name": "Sihlstrasse",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "website": "https://www.publibike.ch/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5332016,
+          47.3731421
+        ]
+      },
+      "id": "node/5754436473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5766057416",
+        "amenity": "bicycle_rental",
+        "check_date": "2025-02-01",
+        "covered": "no",
+        "name": "Comerge",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5202835,
+          47.3586415
+        ]
+      },
+      "id": "node/5766057416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5766057449",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Manesseplatz",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5217,
+          47.3653231
+        ]
+      },
+      "id": "node/5766057449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5766057638",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5180739,
+          47.3631646
+        ]
+      },
+      "id": "node/5766057638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5769992901",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Strandbad Mythenquai",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5351842,
+          47.3551773
+        ]
+      },
+      "id": "node/5769992901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5775103425",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "check_date": "2024-08-14",
+        "covered": "no",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5235341,
+          47.3923436
+        ]
+      },
+      "id": "node/5775103425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5776730446",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "check_date": "2024-03-24",
+        "covered": "no",
+        "name": "Rentenanstalt",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5348112,
+          47.3626164
+        ]
+      },
+      "id": "node/5776730446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5776730447",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Bäckeranlage",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "panoramax": "acae243e-e8d6-4d80-a463-90e1092aaa0f",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5230514,
+          47.3769761
+        ]
+      },
+      "id": "node/5776730447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5776730448",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Bullingerplatz",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "survey:date": "2025-07-17",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5155798,
+          47.3795905
+        ]
+      },
+      "id": "node/5776730448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5776730449",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Hardau",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.511985,
+          47.380823
+        ]
+      },
+      "id": "node/5776730449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5776730451",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.496313,
+          47.3788347
+        ]
+      },
+      "id": "node/5776730451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5776730452",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Albisriederplatz",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5091792,
+          47.3778307
+        ]
+      },
+      "id": "node/5776730452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5776735056",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Lochergut",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5162234,
+          47.3762656
+        ]
+      },
+      "id": "node/5776735056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5784304129",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5255274,
+          47.3615918
+        ]
+      },
+      "id": "node/5784304129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5815240294",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Markthalle",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5271644,
+          47.3875748
+        ]
+      },
+      "id": "node/5815240294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5844698785",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "name": "Röntgenstrasse",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5285244,
+          47.3823331
+        ]
+      },
+      "id": "node/5844698785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6265443703",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Bahnhof Hardbrücke",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.518401,
+          47.386347
+        ]
+      },
+      "id": "node/6265443703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6549072682",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Villa Bleuler",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "source": "survey; should also be available at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf at some point (Stadt Zürich; CC-0)",
+        "survey:date": "2025-11-14",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5544262,
+          47.361843
+        ]
+      },
+      "id": "node/6549072682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6661380870",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Gustav-Gull-Platz",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.530589,
+          47.3792052
+        ]
+      },
+      "id": "node/6661380870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6800437587",
+        "amenity": "bicycle_rental",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "check_date": "2026-03-08",
+        "covered": "no",
+        "fee": "yes",
+        "name": "Emil Oberhänsli",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5454691,
+          47.417568
+        ]
+      },
+      "id": "node/6800437587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6800437588",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Freilager",
+        "network": "Züri Velo",
+        "note": "There's no green Publibike area drawn on the street, the bikes are parked on the sidewalk on 2025-11-23. swisstopo swissimage imagery shows them on the street.",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "source": "survey; Stadt Zürich, CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "survey:date": "2025-11-23",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4903362,
+          47.381577
+        ]
+      },
+      "id": "node/6800437588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6800532085",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5070581,
+          47.3714653
+        ]
+      },
+      "id": "node/6800532085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6926734738",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "covered": "no",
+        "name": "Sihlquai",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:wikidata": "Q3555363",
+        "survey:date": "2025-11-12",
+        "website": "https://www.publibike.ch/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5377695,
+          47.3803243
+        ]
+      },
+      "id": "node/6926734738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7048666932",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "name": "Zollstrasse",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5323523,
+          47.3811328
+        ]
+      },
+      "id": "node/7048666932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7053946558",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "name": "Milchbuck",
+        "network": "Züri Velo",
+        "operator": "PubliBike",
+        "operator:wikidata": "Q3555363",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5414021,
+          47.3972209
+        ]
+      },
+      "id": "node/7053946558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7125753218",
+        "amenity": "bicycle_rental",
+        "capacity": "1",
+        "covered": "yes",
+        "fee": "yes",
+        "mapillary": "479369823315077",
+        "name": "Friesimobil",
+        "network": "carvelo2go"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5071755,
+          47.359577
+        ]
+      },
+      "id": "node/7125753218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7126158835",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4979916,
+          47.381445
+        ]
+      },
+      "id": "node/7126158835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7126532256",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4939942,
+          47.3835525
+        ]
+      },
+      "id": "node/7126532256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7569525316",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Limmatplatz",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5320516,
+          47.3849916
+        ]
+      },
+      "id": "node/7569525316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7580116826",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "covered": "no",
+        "name": "Louis-Häfliger-Park",
+        "network": "Züri Velo",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5332682,
+          47.4128647
+        ]
+      },
+      "id": "node/7580116826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7590023839",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "check_date": "2025-10-31",
+        "covered": "no",
+        "name": "Holunderhof",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.535794,
+          47.4098685
+        ]
+      },
+      "id": "node/7590023839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7590031449",
+        "amenity": "bicycle_rental",
+        "covered": "no",
+        "name": "Birchdörfli",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5325043,
+          47.4069327
+        ]
+      },
+      "id": "node/7590031449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7598732394",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "capacity": "5",
+        "covered": "no",
+        "name": "Lamprechtweg",
+        "network": "Züri Velo",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5377896,
+          47.4134349
+        ]
+      },
+      "id": "node/7598732394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7606875161",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "capacity": "10",
+        "covered": "no",
+        "name": "Center Eleven",
+        "network": "Züri Velo",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5415488,
+          47.4136299
+        ]
+      },
+      "id": "node/7606875161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7856246463",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Züri Velo",
+        "operator": "PubliBike",
+        "operator:wikidata": "Q3555363"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5605108,
+          47.3506866
+        ]
+      },
+      "id": "node/7856246463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7982147706",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "capacity": "10",
+        "covered": "no",
+        "name": "Bahnhof Affoltern",
+        "network": "Züri Velo",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5080715,
+          47.4207826
+        ]
+      },
+      "id": "node/7982147706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8005936977",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "capacity": "10",
+        "covered": "no",
+        "name": "Marktplatz",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5452415,
+          47.4099495
+        ]
+      },
+      "id": "node/8005936977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8006791709",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "capacity": "6",
+        "covered": "no",
+        "fee": "yes",
+        "name": "Leutschenbach",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5526457,
+          47.4144559
+        ]
+      },
+      "id": "node/8006791709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8007022926",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "capacity": "5",
+        "covered": "no",
+        "name": "Oerliker Park",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5380603,
+          47.4157082
+        ]
+      },
+      "id": "node/8007022926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8016964008",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "capacity": "6",
+        "covered": "no",
+        "name": "Wahlenpark",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5416884,
+          47.4161326
+        ]
+      },
+      "id": "node/8016964008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8018697557",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "capacity": "15",
+        "covered": "no",
+        "name": "Bahnhof Oerlikon Süd",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5437474,
+          47.4110496
+        ]
+      },
+      "id": "node/8018697557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8018697559",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "capacity": "10",
+        "covered": "no",
+        "name": "Dorflinde",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5503123,
+          47.4071046
+        ]
+      },
+      "id": "node/8018697559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8023204859",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "covered": "no",
+        "fee": "yes",
+        "name": "Berninaplatz",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5464526,
+          47.4038222
+        ]
+      },
+      "id": "node/8023204859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8070910775",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "name": "Pauluskirche",
+        "network": "Züri Velo",
+        "operator": "PubliBike",
+        "operator:wikidata": "Q3555363",
+        "survey:date": "2025-10-30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5421261,
+          47.3940012
+        ]
+      },
+      "id": "node/8070910775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8452281817",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "operator": "Publibike",
+        "website": "https://publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5287592,
+          47.3838074
+        ]
+      },
+      "id": "node/8452281817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8463632619",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "fee": "yes",
+        "name": "Leutschenpark",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5555488,
+          47.4168137
+        ]
+      },
+      "id": "node/8463632619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8682598539",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "Publibike"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4992662,
+          47.4018404
+        ]
+      },
+      "id": "node/8682598539"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8905650812",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5057827,
+          47.3691621
+        ]
+      },
+      "id": "node/8905650812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8928658761",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:wikidata": "Q3555363",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4963736,
+          47.3751118
+        ]
+      },
+      "id": "node/8928658761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9038945794",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Siriuswiese",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5525482,
+          47.3802853
+        ]
+      },
+      "id": "node/9038945794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9352566379",
+        "amenity": "bicycle_rental",
+        "description": "Das Mobilitätsangebot von mehr als wohnen ist exklusiv für Bewohnende des Hunziker Areals und umfasst Velos, Veloanhänger, Elektrovelos sowie ein Elektroauto.",
+        "email": "reception@mehralswohnen.ch",
+        "level": "0",
+        "name": "Mobilitätsstation",
+        "opening_hours": "Mo, We, Fr 07:30-12:00, 13:00-17:00; Tu 07:30-12:00, 13:00-19:00; Th 07:30-12:00; Sa, Su off",
+        "operator": "Baugenossenschaft mehr als wohnen (MAW)",
+        "phone": "+41 44 325 40 45",
+        "website": "https://www.mehralswohnen.ch/angebote/mobilitaet/?L="
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5603486,
+          47.4141077
+        ]
+      },
+      "id": "node/9352566379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9413994675",
+        "amenity": "bicycle_rental",
+        "covered": "no",
+        "name": "Binzallee",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5141199,
+          47.366363
+        ]
+      },
+      "id": "node/9413994675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9689648661",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "name": "Züri Velo",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5882972,
+          47.401406
+        ]
+      },
+      "id": "node/9689648661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9833135620",
+        "addr:city": "Zürich",
+        "addr:housenumber": "25a",
+        "addr:postcode": "8001",
+        "addr:street": "Leonhardstrasse",
+        "amenity": "bicycle_rental",
+        "backrest": "yes",
+        "bicycle_rental": "dropoff_point",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "capacity": "100",
+        "covered": "no",
+        "fee": "yes",
+        "name": "PubliBike ETH/Zentrum",
+        "network": "Züri Velo",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "phone": "+41325014016",
+        "website": "https://www.publibike.ch/en/publibike"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5460865,
+          47.3779191
+        ]
+      },
+      "id": "node/9833135620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9962644597",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "fee": "yes",
+        "name": "Schiffbau",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:wikidata": "Q3555363",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5203064,
+          47.3880351
+        ]
+      },
+      "id": "node/9962644597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10140514096",
+        "amenity": "bicycle_rental",
+        "authentication:app": "yes",
+        "authentication:swisspass": "yes",
+        "bicycle_rental": "dropoff_point",
+        "name": "Blatterwiese",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:wikidata": "Q3555363",
+        "rental": "city_bike;ebike",
+        "website": "https://www.publibike.ch/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5498541,
+          47.3559467
+        ]
+      },
+      "id": "node/10140514096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10257607287",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "ZSC Lions",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4784369,
+          47.3946747
+        ]
+      },
+      "id": "node/10257607287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10291347509",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "operator": "PubliBike",
+        "operator:wikidata": "Q3555363"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5580581,
+          47.4130274
+        ]
+      },
+      "id": "node/10291347509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10591631305",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "name": "Züri Velo",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5787264,
+          47.4039733
+        ]
+      },
+      "id": "node/10591631305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10692113152",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "covered": "yes",
+        "name": "TX Group AG",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "website": "https://www.publibike.ch/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5300229,
+          47.3724659
+        ]
+      },
+      "id": "node/10692113152"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10733004429",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "covered": "no",
+        "name": "Schwamendingerplatz",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5720616,
+          47.4039598
+        ]
+      },
+      "id": "node/10733004429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10793266200",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "check_date": "2023-04-07",
+        "name": "Röschibachplatz",
+        "operator": "PubliBike",
+        "operator:wikidata": "Q3555363"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5281678,
+          47.3932202
+        ]
+      },
+      "id": "node/10793266200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10908683866",
+        "addr:city": "Zürich",
+        "addr:housenumber": "39",
+        "addr:postcode": "8047",
+        "addr:street": "Freilagerstrasse",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "shop",
+        "check_date": "2025-03-09",
+        "description": "Offers long-term rental of children's bikes, no bikes for adults.",
+        "level": "0",
+        "name": "Bikerental Zueri",
+        "opening_hours": "Tu-Fr 11:00-18:00",
+        "website": "https://bikerental-zueri.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4908459,
+          47.3792578
+        ]
+      },
+      "id": "node/10908683866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11002386347",
+        "amenity": "bicycle_rental",
+        "covered": "no",
+        "name": "Dorfstrasse",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:wikidata": "Q3555363",
+        "source": "Stadt Zürich; CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "survey:date": "2025-11-20",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5221341,
+          47.3945364
+        ]
+      },
+      "id": "node/11002386347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11002386348",
+        "amenity": "bicycle_rental",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "covered": "no",
+        "name": "Werdmühleplatz",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "source": "Stadt Zürich; CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5398884,
+          47.3748076
+        ]
+      },
+      "id": "node/11002386348"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11002386349",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "covered": "no",
+        "name": "Rennweg",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "source": "Stadt Zürich; CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5386552,
+          47.3739451
+        ]
+      },
+      "id": "node/11002386349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11002386350",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "covered": "no",
+        "name": "Stadthaus",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "source": "Stadt Zürich; CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "website": "https://www.publibike.ch/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5414409,
+          47.3691032
+        ]
+      },
+      "id": "node/11002386350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11002386351",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Feldeggstrasse",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:wikidata": "Q3555363",
+        "source": "Stadt Zürich; CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "survey:date": "2023-10-08",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5525935,
+          47.3601108
+        ]
+      },
+      "id": "node/11002386351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11002386352",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Turbinenplatz",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:wikidata": "Q3555363",
+        "source": "Stadt Zürich; CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5167048,
+          47.3898068
+        ]
+      },
+      "id": "node/11002386352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11002386353",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "mapillary": "318248747129485",
+        "name": "Westpark",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:wikidata": "Q3555363",
+        "source": "Stadt Zürich; CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5145704,
+          47.3898136
+        ]
+      },
+      "id": "node/11002386353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11002386354",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "name": "Fischerweg",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:wikidata": "Q3555363",
+        "source": "Stadt Zürich; CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5123452,
+          47.3934013
+        ]
+      },
+      "id": "node/11002386354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11002386355",
+        "amenity": "bicycle_rental",
+        "covered": "no",
+        "fixme": "survey need for exact location, not visible on Canton Zurich Orthophoto 2020 or 2021 or Mapillary",
+        "name": "Ackersteinstrasse ZüriMobil Station",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:wikidata": "Q3555363",
+        "source": "Stadt Zürich; CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5076921,
+          47.3968026
+        ]
+      },
+      "id": "node/11002386355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11002386356",
+        "amenity": "bicycle_rental",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "covered": "no",
+        "name": "Am Wasser",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "source": "Stadt Zürich;CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5036326,
+          47.3962166
+        ]
+      },
+      "id": "node/11002386356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11002386358",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Letzipark",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:wikidata": "Q3555363",
+        "source": "Stadt Zürich; CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4992505,
+          47.3857108
+        ]
+      },
+      "id": "node/11002386358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11002386359",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Freibad Letzigraben",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:wikidata": "Q3555363",
+        "source": "Stadt Zürich; CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "survey:date": "2025-11-23",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5011431,
+          47.3796819
+        ]
+      },
+      "id": "node/11002386359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11002386360",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "covered": "no",
+        "name": "Stauffachertor",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "source": "Stadt Zürich; CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5304226,
+          47.3727418
+        ]
+      },
+      "id": "node/11002386360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11002386361",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "covered": "no",
+        "name": "Stauffacher",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "source": "Stadt Zürich; CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5303004,
+          47.3738902
+        ]
+      },
+      "id": "node/11002386361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11002386362",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "covered": "no",
+        "name": "Helvetiaplatz",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "source": "Stadt Zürich; CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5266076,
+          47.3764642
+        ]
+      },
+      "id": "node/11002386362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11002386363",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "covered": "no",
+        "name": "Hermann-Greulich-Strasse",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "source": "Stadt Zürich; CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5204366,
+          47.3783257
+        ]
+      },
+      "id": "node/11002386363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11002386364",
+        "amenity": "bicycle_rental",
+        "name": "Hardplatz",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:wikidata": "Q3555363",
+        "source": "Stadt Zürich; CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5152487,
+          47.3819072
+        ]
+      },
+      "id": "node/11002386364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11002386365",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "covered": "no",
+        "name": "Bezirksgebäude",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "source": "Stadt Zürich; CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5255934,
+          47.3742314
+        ]
+      },
+      "id": "node/11002386365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11002386366",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "covered": "no",
+        "name": "Kalkbreite",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "source": "Stadt Zürich; CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5206012,
+          47.3749095
+        ]
+      },
+      "id": "node/11002386366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11002386367",
+        "amenity": "bicycle_rental",
+        "covered": "no",
+        "name": "Idaplatz",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:wikidata": "Q3555363",
+        "source": "Stadt Zürich; CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5141441,
+          47.3742073
+        ]
+      },
+      "id": "node/11002386367"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11002386368",
+        "amenity": "bicycle_rental",
+        "covered": "no",
+        "fixme": "survey need for exact location, not visible on Canton Zurich Orthophoto 2020 or 2021 or Mapillary",
+        "name": "Schmiede Wiedikon",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:wikidata": "Q3555363",
+        "source": "Stadt Zürich; CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.518184,
+          47.3700359
+        ]
+      },
+      "id": "node/11002386368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11002386369",
+        "amenity": "bicycle_rental",
+        "covered": "no",
+        "name": "Goldbrunnenplatz",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:wikidata": "Q3555363",
+        "source": "Stadt Zürich; CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5148415,
+          47.3702246
+        ]
+      },
+      "id": "node/11002386369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11002386370",
+        "amenity": "bicycle_rental",
+        "covered": "no",
+        "name": "Kirche Bühl",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:wikidata": "Q3555363",
+        "source": "Stadt Zürich; CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5157882,
+          47.3680968
+        ]
+      },
+      "id": "node/11002386370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11002386371",
+        "amenity": "bicycle_rental",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "covered": "no",
+        "name": "Aegerten",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "source": "Stadt Zürich; CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5232781,
+          47.3689104
+        ]
+      },
+      "id": "node/11002386371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11002386372",
+        "amenity": "bicycle_rental",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "covered": "no",
+        "name": "Hallwylstrasse",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "source": "Stadt Zürich; CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5272786,
+          47.3701291
+        ]
+      },
+      "id": "node/11002386372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11002386373",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "General-Guisan-Quai",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:wikidata": "Q3555363",
+        "source": "Stadt Zürich; CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5379653,
+          47.3648611
+        ]
+      },
+      "id": "node/11002386373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11002386374",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Hafen Enge",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:wikidata": "Q3555363",
+        "source": "Stadt Zürich; CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5357005,
+          47.3596462
+        ]
+      },
+      "id": "node/11002386374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11002386375",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Mythenschloss",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:wikidata": "Q3555363",
+        "source": "Stadt Zürich; CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5342249,
+          47.3599972
+        ]
+      },
+      "id": "node/11002386375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11002386376",
+        "amenity": "bicycle_rental",
+        "covered": "no",
+        "name": "Binz Center",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:wikidata": "Q3555363",
+        "source": "Stadt Zürich; CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5107354,
+          47.3622435
+        ]
+      },
+      "id": "node/11002386376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11002386377",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Utoplatz",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:wikidata": "Q3555363",
+        "source": "Stadt Zürich; CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "survey:date": "2023-09-23",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5231125,
+          47.3598514
+        ]
+      },
+      "id": "node/11002386377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11002386378",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Rieterplatz",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:wikidata": "Q3555363",
+        "source": "Stadt Zürich; CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.526148,
+          47.3563886
+        ]
+      },
+      "id": "node/11002386378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11002386379",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Muggenbühl",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:wikidata": "Q3555363",
+        "source": "Stadt Zürich; CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5271561,
+          47.3524985
+        ]
+      },
+      "id": "node/11002386379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11002386380",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "check_date": "2024-07-19",
+        "covered": "no",
+        "name": "Jugendherberge",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:wikidata": "Q3555363",
+        "source": "Stadt Zürich; CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5280397,
+          47.347796
+        ]
+      },
+      "id": "node/11002386380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11002386382",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Lake Side",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:wikidata": "Q3555363",
+        "source": "Stadt Zürich; CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5531875,
+          47.353195
+        ]
+      },
+      "id": "node/11002386382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11002386383",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Hegibachplatz",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:wikidata": "Q3555363",
+        "source": "Stadt Zürich; CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5609175,
+          47.3619037
+        ]
+      },
+      "id": "node/11002386383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11002386384",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "fee": "yes",
+        "name": "Bahnhof Stadelhofen",
+        "network": "Züri Velo",
+        "not:brand:wikidata": "Q56314221",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "source": "Stadt Zürich;CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5484866,
+          47.3669201
+        ]
+      },
+      "id": "node/11002386384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11002386385",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Hottingerplatz",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:wikidata": "Q3555363",
+        "source": "Stadt Zürich; CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5543855,
+          47.3690173
+        ]
+      },
+      "id": "node/11002386385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11002386386",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "PubliBike Velospot Römerhof",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:wikidata": "Q3555363",
+        "source": "Stadt Zürich; CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5599819,
+          47.3684713
+        ]
+      },
+      "id": "node/11002386386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11002386387",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Kinderspital",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:wikidata": "Q3555363",
+        "source": "Stadt Zürich; CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5594979,
+          47.3708339
+        ]
+      },
+      "id": "node/11002386387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11002386388",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Museum für Gestaltung",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:wikidata": "Q3555363",
+        "source": "Stadt Zürich; CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5354458,
+          47.3827844
+        ]
+      },
+      "id": "node/11002386388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11002386389",
+        "amenity": "bicycle_rental",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "check_date": "2024-04-09",
+        "covered": "no",
+        "name": "Stapferstube",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "source": "Stadt Zürich; CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5469007,
+          47.3825712
+        ]
+      },
+      "id": "node/11002386389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11002386390",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Rigiplatz",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:wikidata": "Q3555363",
+        "source": "Stadt Zürich; CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5479014,
+          47.3849057
+        ]
+      },
+      "id": "node/11002386390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11002386391",
+        "amenity": "bicycle_rental",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "covered": "no",
+        "name": "Kirche Unterstrass",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "source": "Stadt Zürich; CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5421089,
+          47.3877478
+        ]
+      },
+      "id": "node/11002386391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11002386394",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "fixme": "survey need for exact location, not visible on Canton Zurich Orthophoto 2020 or 2021 or Mapillary",
+        "name": "Radiostudio",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:wikidata": "Q3555363",
+        "source": "Stadt Zürich; CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5355085,
+          47.4027421
+        ]
+      },
+      "id": "node/11002386394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11002386395",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Freibad Allenmoos",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:wikidata": "Q3555363",
+        "source": "Stadt Zürich; CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5390084,
+          47.4057528
+        ]
+      },
+      "id": "node/11002386395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11002386396",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Bahnhof Oerlikon Nord",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:wikidata": "Q3555363",
+        "source": "Stadt Zürich; CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5440932,
+          47.4127801
+        ]
+      },
+      "id": "node/11002386396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11002386397",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "fixme": "survey need for exact location, not visible on Canton Zurich Orthophoto 2020 or 2021 or Mapillary",
+        "name": "Messe/Hallenstadion",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:wikidata": "Q3555363",
+        "source": "Stadt Zürich; CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5519301,
+          47.4106128
+        ]
+      },
+      "id": "node/11002386397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11002386398",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Hallenbad Oerlikon",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:wikidata": "Q3555363",
+        "source": "Stadt Zürich; CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5563286,
+          47.4095423
+        ]
+      },
+      "id": "node/11002386398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11002386401",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Bahnhof Stettbach",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:wikidata": "Q3555363",
+        "source": "Stadt Zürich; CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5961001,
+          47.3978271
+        ]
+      },
+      "id": "node/11002386401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11002403510",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "covered": "no",
+        "name": "Seebach ZüriMobil Station",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "source": "Stadt Zürich; CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5498548,
+          47.4219152
+        ]
+      },
+      "id": "node/11002403510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11002403515",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "covered": "no",
+        "name": "Zehntenhausplatz",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "source": "Stadt Zürich; CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5064694,
+          47.4188246
+        ]
+      },
+      "id": "node/11002403515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11002403516",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Frankental",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:wikidata": "Q3555363",
+        "source": "Stadt Zürich; CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4810692,
+          47.4054752
+        ]
+      },
+      "id": "node/11002403516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11778835752",
+        "amenity": "bicycle_rental",
+        "check_date": "2024-04-01",
+        "operator": "carvelo2go"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5456468,
+          47.3878575
+        ]
+      },
+      "id": "node/11778835752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12197034893",
+        "access": "yes",
+        "amenity": "bicycle_rental",
+        "authentication:app": "yes",
+        "bicycle_rental": "key_dispensing_machine",
+        "capacity": "1",
+        "name": "carvelo",
+        "operator": "carvelo",
+        "rental": "cargo_bike",
+        "website": "https://www.carvelo.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5361667,
+          47.3947799
+        ]
+      },
+      "id": "node/12197034893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12197034894",
+        "access": "yes",
+        "amenity": "bicycle_rental",
+        "authentication:app": "yes",
+        "bicycle_rental": "key_dispensing_machine",
+        "capacity": "1",
+        "name": "carvelo",
+        "operator": "carvelo",
+        "rental": "cargo_bike",
+        "website": "https://www.carvelo.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5363312,
+          47.3951457
+        ]
+      },
+      "id": "node/12197034894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12988369370",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Brunnenhof",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:wikidata": "Q3555363",
+        "survey:date": "2025-07-08",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5350452,
+          47.4022345
+        ]
+      },
+      "id": "node/12988369370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13147033899",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "name": "UZH Campus Irchel",
+        "network": "Züri Velo",
+        "operator": "PubliBike",
+        "operator:wikidata": "Q3555363",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5472183,
+          47.3978018
+        ]
+      },
+      "id": "node/13147033899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13207212566",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4923654,
+          47.3775119
+        ]
+      },
+      "id": "node/13207212566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13243768838",
+        "amenity": "bicycle_rental",
+        "capacity": "1",
+        "email": "trike6@velorution.ch",
+        "fee": "donation",
+        "name": "E-Lastenrad Trike 6",
+        "network": "Lastenradkollektiv",
+        "network:website": "https://velorution.ch/lastenradkollektiv",
+        "operator": "GZ Loogarten",
+        "rental": "cargo_bike",
+        "website": "https://velorution.ch/cargobike/trike-6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4724306,
+          47.3884404
+        ]
+      },
+      "id": "node/13243768838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13271100509",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "name": "Schaffhauserplatz",
+        "operator": "PubliBike",
+        "rental": "city_bike;e-bike",
+        "survey:date": "2025-10-30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5370725,
+          47.3912838
+        ]
+      },
+      "id": "node/13271100509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13271192319",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Nordstrasse",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "source": "Stadt Zürich; CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "survey:date": "2025-10-30",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5358613,
+          47.3886354
+        ]
+      },
+      "id": "node/13271192319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13273547060",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Oberwiesenstrasse",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "source": "Stadt Zürich; CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "survey:date": "2025-10-31",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5324086,
+          47.4102735
+        ]
+      },
+      "id": "node/13273547060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13295408247",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Rennweg",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "survey:date": "2025-11-10",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5394551,
+          47.3739458
+        ]
+      },
+      "id": "node/13295408247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13298228257",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "covered": "no",
+        "fee": "yes",
+        "name": "Schärenmoosstrasse",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5568534,
+          47.4191599
+        ]
+      },
+      "id": "node/13298228257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13305348240",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Lettenstrasse",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "source": "survey; should also be available at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf at some point (Stadt Zürich; CC-0)",
+        "survey:date": "2025-11-14",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5314091,
+          47.3898293
+        ]
+      },
+      "id": "node/13305348240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13305388532",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "covered": "no",
+        "name": "Central",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "source": "survey; should also be available at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf at some point (Stadt Zürich; CC-0)",
+        "survey:date": "2025-11-13",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5434912,
+          47.3755726
+        ]
+      },
+      "id": "node/13305388532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13317755131",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "capacity": "6",
+        "covered": "no",
+        "fee": "yes",
+        "name": "Quadro",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5504261,
+          47.4129278
+        ]
+      },
+      "id": "node/13317755131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13326527992",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Brahmsstrasse",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "source": "survey; Stadt Zürich, CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "survey:date": "2025-11-23",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5039784,
+          47.3785394
+        ]
+      },
+      "id": "node/13326527992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13326539820",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Norastrasse",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "source": "survey; Stadt Zürich, CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "survey:date": "2025-11-23",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5075412,
+          47.3801167
+        ]
+      },
+      "id": "node/13326539820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13326559451",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Utogrund",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "source": "survey; Stadt Zürich, CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "survey:date": "2025-11-23",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.496735,
+          47.3785244
+        ]
+      },
+      "id": "node/13326559451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13326562135",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Zwyssigstrasse",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "source": "survey; Stadt Zürich, CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "survey:date": "2025-11-23",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.484681,
+          47.3833813
+        ]
+      },
+      "id": "node/13326562135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13326615031",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Schule Kappeli",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "source": "survey; Stadt Zürich, CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "survey:date": "2025-11-23",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4939159,
+          47.3868709
+        ]
+      },
+      "id": "node/13326615031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13333966530",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "name": "PubliBike Velospot Balgrist",
+        "operator": "PubliBike"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5731565,
+          47.3548844
+        ]
+      },
+      "id": "node/13333966530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13342491184",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Trichtisaal",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5994889,
+          47.3540433
+        ]
+      },
+      "id": "node/13342491184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13346863204",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Beckenhof",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "source": "survey",
+        "survey:date": "2025-12-01",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.540324,
+          47.3837136
+        ]
+      },
+      "id": "node/13346863204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13347670446",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Buchzelgstrasse",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5905889,
+          47.3600692
+        ]
+      },
+      "id": "node/13347670446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13357806483",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Zentrum Witikon",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5853806,
+          47.3580199
+        ]
+      },
+      "id": "node/13357806483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13357806484",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Oetlisbergstrasse",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5968754,
+          47.3585088
+        ]
+      },
+      "id": "node/13357806484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13378295065",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "level": "0",
+        "name": "PubliBike Velospot Stadelhofen",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5480797,
+          47.3663973
+        ]
+      },
+      "id": "node/13378295065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13383561382",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "fee": "yes",
+        "name": "Züri Velo",
+        "operator": "PubliBike",
+        "operator:wikidata": "Q3555363"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5849169,
+          47.4059173
+        ]
+      },
+      "id": "node/13383561382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13383561383",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "fee": "yes",
+        "name": "Züri Velo",
+        "operator": "PubliBike",
+        "operator:wikidata": "Q3555363"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5857703,
+          47.403315
+        ]
+      },
+      "id": "node/13383561383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13430392841",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "covered": "no",
+        "fee": "yes",
+        "name": "Seebach",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5501394,
+          47.4214929
+        ]
+      },
+      "id": "node/13430392841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13448005350",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "covered": "no",
+        "fee": "yes",
+        "name": "Kolbenacker",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5477608,
+          47.4261379
+        ]
+      },
+      "id": "node/13448005350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13448005351",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "covered": "no",
+        "fee": "yes",
+        "name": "Leimgrübelstrasse",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5435881,
+          47.4288273
+        ]
+      },
+      "id": "node/13448005351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13448028332",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "covered": "no",
+        "fee": "yes",
+        "name": "Hertensteinstrasse",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5428831,
+          47.4231204
+        ]
+      },
+      "id": "node/13448028332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13474929593",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "fee": "yes",
+        "name": "Am Glattbogen",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5634861,
+          47.4120454
+        ]
+      },
+      "id": "node/13474929593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13481795671",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "fee": "yes",
+        "name": "Riedgraben",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5587871,
+          47.4096299
+        ]
+      },
+      "id": "node/13481795671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13481795674",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "fee": "yes",
+        "name": "Schürgistrasse",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5775957,
+          47.4077988
+        ]
+      },
+      "id": "node/13481795674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13517646255",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Lehenstrasse",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "source": "survey; but should show up in the future in the dataset of Stadt Zürich; CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "survey:date": "2026-01-24",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5186288,
+          47.3966387
+        ]
+      },
+      "id": "node/13517646255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13517659278",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Eidmattstrasse",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "source": "survey; but should show up in the future in the dataset of Stadt Zürich; CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "survey:date": "2026-01-24",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5600514,
+          47.365119
+        ]
+      },
+      "id": "node/13517659278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13564195092",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "covered": "no",
+        "fee": "yes",
+        "name": "Hirschwiesenstrasse",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5432676,
+          47.3998077
+        ]
+      },
+      "id": "node/13564195092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13575083735",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Klusplatz",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5666069,
+          47.3640383
+        ]
+      },
+      "id": "node/13575083735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13609356856",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "capacity": "15",
+        "covered": "no",
+        "name": "Gubelstrasse",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5442912,
+          47.4083061
+        ]
+      },
+      "id": "node/13609356856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13618719263",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "covered": "no",
+        "name": "Rütihof",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "source": "survey; should also soon show up at Stadt Zürich; CC-0, provided at https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7e477f1-75ce-46d2-a32a-c547e37ccfaf",
+        "survey:date": "2026-02-28",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4777417,
+          47.413488
+        ]
+      },
+      "id": "node/13618719263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13649477353",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "covered": "no",
+        "fee": "yes",
+        "name": "Schönauring",
+        "network": "Züri Velo",
+        "opening_hours": "24/7",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363",
+        "website": "https://www.publibike.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5366382,
+          47.426582
+        ]
+      },
+      "id": "node/13649477353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13664092200",
+        "amenity": "bicycle_rental",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5517992,
+          47.3731605
+        ]
+      },
+      "id": "node/13664092200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13686292568",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "dropoff_point",
+        "brand": "Velospot",
+        "brand:wikidata": "Q56314221",
+        "fee": "yes",
+        "name": "Tulpenstrasse",
+        "operator": "PubliBike",
+        "operator:type": "private",
+        "operator:wikidata": "Q3555363"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5675906,
+          47.4064314
+        ]
+      },
+      "id": "node/13686292568"
+    }
+  ]
+}

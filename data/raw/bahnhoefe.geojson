@@ -1,0 +1,794 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-04-21T06:52:45Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29542965",
+        "alt_name": "Polybahn (Talstation)",
+        "ele": "411.09",
+        "funicular": "yes",
+        "name": "Central Polybahn",
+        "nat_name": "Zürich, Central Polybahn",
+        "network": "ZVV",
+        "operator": "PBZ",
+        "public_transport": "stop_position",
+        "railway": "station",
+        "ref": "6217",
+        "ref_name": "Zürich, Central Polybahn",
+        "station": "funicular",
+        "uic_name": "Zürich Central (Polybahn)",
+        "uic_ref": "8503499",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.544172,
+          47.3765183
+        ]
+      },
+      "id": "node/29542965"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29542967",
+        "alt_name": "Polybahn (Bergstation)",
+        "check_date:wheelchair": "2026-01-22",
+        "ele": "448.76",
+        "funicular": "yes",
+        "name": "Polyterrasse ETH",
+        "nat_name": "Zürich, Polyterasse ETH",
+        "network": "ZVV",
+        "network:wikidata": "Q201977",
+        "operator": "PBZ",
+        "public_transport": "stop_position",
+        "railway": "station",
+        "ref": "1896",
+        "ref_name": "Zürich, Polyterasse ETH",
+        "station": "funicular",
+        "train": "yes",
+        "uic_name": "Zürich Polyterrasse",
+        "uic_ref": "8503500",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5463207,
+          47.3768321
+        ]
+      },
+      "id": "node/29542967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/36258964",
+        "ele": "606",
+        "name": "Bergstation Dolderbahn",
+        "nat_name": "Zürich, Bergstation Dolderbahn",
+        "network": "ZVV",
+        "operator": "VBZ/DBZ",
+        "public_transport": "stop_position",
+        "railway": "station",
+        "ref": "459",
+        "ref_name": "Zürich, Bergstation Dolderbahn",
+        "train": "yes",
+        "uic_name": "Zürich, Dolder",
+        "uic_ref": "8503084",
+        "wheelchair": "yes",
+        "wikidata": "Q33514141"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5746371,
+          47.3731699
+        ]
+      },
+      "id": "node/36258964"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/102387395",
+        "alt_name": "Seilbahn Rigiblick (Bergstation)",
+        "ele": "585.07",
+        "funicular": "yes",
+        "name": "Rigiblick",
+        "network": "ZVV",
+        "network:wikidata": "Q201977",
+        "operator": "VBZ",
+        "public_transport": "stop_position",
+        "railway": "station",
+        "ref": "2090",
+        "station": "funicular",
+        "uic_name": "Zürich, Rigiblick",
+        "uic_ref": "8530473",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5533362,
+          47.3873301
+        ]
+      },
+      "id": "node/102387395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/130246905",
+        "alt_name": "Seilbahn Rigiblick (Talstation)",
+        "ele": "489.47",
+        "funicular": "yes",
+        "name": "Seilbahn Rigiblick",
+        "network": "ZVV",
+        "network:wikidata": "Q201977",
+        "operator": "VBZ",
+        "public_transport": "stop_position",
+        "railway": "station",
+        "ref": "2367",
+        "station": "funicular",
+        "uic_name": "Zürich, Seilbahn Rigiblick",
+        "uic_ref": "8591362",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5489474,
+          47.3858838
+        ]
+      },
+      "id": "node/130246905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1060554622",
+        "ele": "445",
+        "name": "Römerhof",
+        "nat_name": "Zürich, Römerhof",
+        "network": "ZVV",
+        "operator": "VBZ/DBZ",
+        "public_transport": "stop_position",
+        "railway": "station",
+        "ref": "2124",
+        "ref_name": "Zürich, Römerhof",
+        "train": "yes",
+        "uic_name": "Zürich, Römerhof (DBZ)",
+        "uic_ref": "8519525",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5608667,
+          47.3684437
+        ]
+      },
+      "id": "node/1060554622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1189482494",
+        "addr:city": "Zürich",
+        "addr:postcode": "8050",
+        "ele": "442",
+        "name": "Zürich Oerlikon",
+        "network": "ZVV",
+        "network:wikidata": "Q201977",
+        "operator": "SBB",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ZOER",
+        "train": "yes",
+        "uic_name": "Zürich Oerlikon",
+        "uic_ref": "8503006",
+        "wheelchair": "yes",
+        "wikidata": "Q194887"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5441507,
+          47.4114986
+        ]
+      },
+      "id": "node/1189482494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1231420538",
+        "ele": "415",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:operator": "SBB",
+        "name": "Zürich Hardbrücke",
+        "network": "ZVV",
+        "operator": "SBB",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ZHDB",
+        "uic_name": "Zürich Hardbrücke",
+        "uic_ref": "8503020",
+        "wheelchair": "yes",
+        "wikidata": "Q801678"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5173926,
+          47.3851609
+        ]
+      },
+      "id": "node/1231420538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1236383343",
+        "alt_name": "Zürich HB",
+        "ele": "408",
+        "iata": "ZLP",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:operator": "SBB",
+        "name": "Zürich Hauptbahnhof",
+        "name:fr": "Zurich Gare Centrale",
+        "name:tr": "Zürih Ana İstasyonu",
+        "network": "ZVV",
+        "operator": "SBB",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ZUE",
+        "ref:FR:sncf:resarail": "CHAJD",
+        "ref:FR:uic8": "85030007",
+        "short_name": "Zürich HB",
+        "start_date": "1847-08-07",
+        "toilets:wheelchair": "yes",
+        "uic_name": "Zürich HB",
+        "uic_ref": "8503000",
+        "wheelchair": "yes",
+        "wikidata": "Q224494",
+        "wikipedia": "de:Zürich Hauptbahnhof"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5393635,
+          47.3781008
+        ]
+      },
+      "id": "node/1236383343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1239733410",
+        "ele": "411",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "Zürich Stadelhofen",
+        "network": "ZVV",
+        "network:wikidata": "Q201977",
+        "operator": "SBB",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ZSTH",
+        "toilets:wheelchair": "yes",
+        "train": "yes",
+        "uic_name": "Zürich Stadelhofen",
+        "uic_ref": "8503003",
+        "wheelchair": "yes",
+        "wikidata": "Q673228"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5483858,
+          47.3665643
+        ]
+      },
+      "id": "node/1239733410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1239941343",
+        "ele": "450",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:operator": "SBB",
+        "name": "Stettbach",
+        "network": "ZVV",
+        "operator": "SBB",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "STET",
+        "uic_name": "Stettbach",
+        "uic_ref": "8503147",
+        "wheelchair": "yes",
+        "wikidata": "Q801466"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5961074,
+          47.3971522
+        ]
+      },
+      "id": "node/1239941343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1261444104",
+        "addr:housenumber": "1",
+        "addr:street": "Sihlbrücke",
+        "covered": "yes",
+        "ele": "398",
+        "fixme": "stairs and elevators",
+        "name": "Zürich Selnau",
+        "network": "ZVV",
+        "network:wikidata": "Q201977",
+        "operator": "SZU",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ZSEL",
+        "train": "yes",
+        "uic_name": "Zürich Selnau",
+        "uic_ref": "8503090",
+        "wheelchair": "yes",
+        "wikidata": "Q637602"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5318556,
+          47.3724695
+        ]
+      },
+      "id": "node/1261444104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1261444152",
+        "ele": "421",
+        "name": "Zürich Binz",
+        "network": "ZVV",
+        "operator": "SZU",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ZBZ",
+        "uic_name": "Zürich Binz",
+        "uic_ref": "8503051",
+        "wheelchair": "yes",
+        "wikidata": "Q8076076"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5180854,
+          47.3628473
+        ]
+      },
+      "id": "node/1261444152"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1261981415",
+        "alt_name": "Zürich Triemli SZU",
+        "description": "Haltestelle der S10 Uetlibergbahn (SZU). Befindet sich etwa 400 Meter von der fast gleichnamigen Tram- und Bushaltestelle 'Zürich, Triemli' entfernt.",
+        "ele": "485",
+        "name": "Zürich Triemli",
+        "network": "ZVV",
+        "operator": "SZU",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "TRLI",
+        "train": "yes",
+        "uic_name": "Zürich Triemli",
+        "uic_ref": "8503054",
+        "wheelchair": "yes",
+        "wikidata": "Q8076081"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4953498,
+          47.3649741
+        ]
+      },
+      "id": "node/1261981415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1264771132",
+        "check_date:wheelchair": "2026-01-20",
+        "ele": "418",
+        "name": "Zürich Giesshübel",
+        "network": "ZVV",
+        "operator": "SZU",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ZGH",
+        "uic_name": "Zürich Giesshübel",
+        "uic_ref": "8503091",
+        "wheelchair": "yes",
+        "wikidata": "Q801675"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5220149,
+          47.3626083
+        ]
+      },
+      "id": "node/1264771132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1264808495",
+        "ele": "420",
+        "name": "Zürich Saalsporthalle",
+        "network": "ZVV",
+        "operator": "SZU",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ZSAA",
+        "uic_name": "Zürich Saalsporthalle",
+        "uic_ref": "8503087",
+        "wikidata": "Q8076079"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5218339,
+          47.3580067
+        ]
+      },
+      "id": "node/1264808495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1264882620",
+        "check_date:wheelchair": "2021-06-23",
+        "ele": "422",
+        "name": "Zürich Brunau",
+        "network": "ZVV",
+        "operator": "SZU",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ZBRU",
+        "train": "yes",
+        "uic_name": "Zürich Brunau",
+        "uic_ref": "8503086",
+        "wheelchair": "no",
+        "wikidata": "Q8075390"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5262233,
+          47.3515976
+        ]
+      },
+      "id": "node/1264882620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1265011513",
+        "ele": "435",
+        "name": "Zürich Leimbach",
+        "network": "ZVV",
+        "operator": "SZU",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ZLE",
+        "train": "yes",
+        "uic_name": "Zürich Leimbach",
+        "uic_ref": "8503094",
+        "wheelchair": "yes",
+        "wikidata": "Q8075395"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5187267,
+          47.3330734
+        ]
+      },
+      "id": "node/1265011513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1270323047",
+        "addr:city": "Zürich",
+        "addr:postcode": "8004",
+        "ele": "405",
+        "name": "Zürich Wiedikon",
+        "network": "ZVV",
+        "network:wikidata": "Q201977",
+        "operator": "SBB",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ZWIE",
+        "train": "yes",
+        "uic_name": "Zürich Wiedikon",
+        "uic_ref": "8503011",
+        "wheelchair": "yes",
+        "wikidata": "Q679393"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5230648,
+          47.3717117
+        ]
+      },
+      "id": "node/1270323047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1270614835",
+        "ele": "409",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:operator": "SBB",
+        "name": "Zürich Enge",
+        "network": "ZVV",
+        "operator": "SBB",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ZEN",
+        "uic_name": "Zürich Enge",
+        "uic_ref": "8503010",
+        "wheelchair": "yes",
+        "wikidata": "Q801676"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5307605,
+          47.3641833
+        ]
+      },
+      "id": "node/1270614835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1291611923",
+        "ele": "408",
+        "name": "Zürich Tiefenbrunnen",
+        "network": "ZVV",
+        "network:wikidata": "Q201977",
+        "operator": "SBB",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ZTB",
+        "train": "yes",
+        "uic_name": "Zürich Tiefenbrunnen",
+        "uic_ref": "8503004",
+        "wheelchair": "limited",
+        "wikidata": "Q505460"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5613415,
+          47.3501172
+        ]
+      },
+      "id": "node/1291611923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1293202658",
+        "addr:city": "Zürich",
+        "ele": "442",
+        "name": "Zürich Seebach",
+        "network": "ZVV",
+        "network:wikidata": "Q201977",
+        "operator": "SBB",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ZSEB",
+        "train": "yes",
+        "uic_name": "Zürich Seebach",
+        "uic_ref": "8503007",
+        "wheelchair": "yes",
+        "wikidata": "Q250500",
+        "wikimedia_commons": "Category:Zürich Seebach railway station",
+        "wikipedia": "de:Bahnhof Zürich Seebach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5442186,
+          47.4185872
+        ]
+      },
+      "id": "node/1293202658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1293232953",
+        "bin": "yes",
+        "ele": "456",
+        "name": "Zürich Affoltern",
+        "network": "ZVV",
+        "operator": "SBB",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ZAF",
+        "shelter": "yes",
+        "uic_name": "Zürich Affoltern",
+        "uic_ref": "8503008",
+        "wheelchair": "yes",
+        "wikidata": "Q1771435"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5081772,
+          47.4209007
+        ]
+      },
+      "id": "node/1293232953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3080372105",
+        "ele": "399",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:operator": "SBB",
+        "name": "Zürich Altstetten",
+        "network": "ZVV",
+        "operator": "SBB",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ZAS",
+        "uic_name": "Zürich Altstetten",
+        "uic_ref": "8503001",
+        "wheelchair": "yes",
+        "wikidata": "Q678652"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4893332,
+          47.3913167
+        ]
+      },
+      "id": "node/3080372105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3080372106",
+        "ele": "409",
+        "name": "Zürich Wollishofen",
+        "network": "ZVV",
+        "network:wikidata": "Q201977",
+        "operator": "SBB",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ZWOL",
+        "train": "yes",
+        "uic_name": "Zürich Wollishofen",
+        "uic_ref": "8503009",
+        "wheelchair": "limited",
+        "wikidata": "Q801680",
+        "wikimedia_commons": "Category:Zürich Wollishofen railway station",
+        "wikipedia": "de:Bahnhof Zürich Wollishofen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5337381,
+          47.3477819
+        ]
+      },
+      "id": "node/3080372106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3228473453",
+        "ele": "396",
+        "name": "Zürich Hauptbahnhof SZU",
+        "network": "ZVV",
+        "operator": "SZU",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ZUSZ",
+        "uic_name": "Zürich HB SZU",
+        "uic_ref": "8503088",
+        "wheelchair": "yes",
+        "wikidata": "Q33456193"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5394445,
+          47.3773718
+        ]
+      },
+      "id": "node/3228473453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3316140071",
+        "ele": "431",
+        "name": "Zürich Manegg",
+        "network": "ZVV",
+        "operator": "SZU",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ZMA",
+        "train": "yes",
+        "uic_name": "Zürich Manegg",
+        "uic_ref": "8503093",
+        "wheelchair": "yes",
+        "wikidata": "Q8075397"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5197354,
+          47.3378276
+        ]
+      },
+      "id": "node/3316140071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4416076342",
+        "ele": "425",
+        "name": "Zürich Wipkingen",
+        "network": "ZVV",
+        "operator": "SBB",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ZWIP",
+        "uic_name": "Zürich Wipkingen",
+        "uic_ref": "8503015",
+        "wheelchair": "no",
+        "wikidata": "Q679416"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5293157,
+          47.3930555
+        ]
+      },
+      "id": "node/4416076342"
+    }
+  ]
+}
