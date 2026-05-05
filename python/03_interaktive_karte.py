@@ -2,7 +2,7 @@ import folium
 from folium.plugins import HeatMap, MeasureControl, Fullscreen
 import geopandas as gpd
 
-# ── DATEN LADEN ───────────────────────────────────────────────────────────────
+# Daten laden
 bahnhoefe_gdf = gpd.read_file('data/raw/bahnhoefe_2056.gpkg').to_crs(epsg=4326)
 tourismus_gdf = gpd.read_file('data/raw/tourismus_2056.gpkg').to_crs(epsg=4326)
 verleihe_gdf  = gpd.read_file('data/raw/verleihe_2056.gpkg').to_crs(epsg=4326)
@@ -12,7 +12,7 @@ bahnhoefe_pts = bahnhoefe_gdf[bahnhoefe_gdf.geometry.geom_type == 'Point']
 tourismus_pts = tourismus_gdf[tourismus_gdf.geometry.geom_type == 'Point']
 verleihe_pts  = verleihe_gdf[verleihe_gdf.geometry.geom_type == 'Point']
 
-# ── KARTE INITIALISIEREN ──────────────────────────────────────────────────────
+# Karte initialisieren 
 karte = folium.Map(location=[47.3769, 8.5417], zoom_start=13,
                    tiles="CartoDB positron", control_scale=True)
 Fullscreen().add_to(karte)
@@ -25,7 +25,7 @@ layer_verleihe    = folium.FeatureGroup(name="🚴 Bestehende Verleihe", show=Tr
 layer_top3        = folium.FeatureGroup(name="⭐ Top-3 Empfehlungen", show=True)
 layer_stadtkreise = folium.FeatureGroup(name="🗺️ Stadtkreise Scoring", show=True)
 
-# ── BAHNHÖFE ──────────────────────────────────────────────────────────────────
+# Bahnhöfe
 for _, row in bahnhoefe_pts.iterrows():
     name = str(row.get('name', 'Bahnhof'))
     lat, lon = row.geometry.y, row.geometry.x
@@ -38,7 +38,7 @@ for _, row in bahnhoefe_pts.iterrows():
         tooltip=f"500m Buffer: {name}",
     ).add_to(layer_velowege)
 
-# ── TOURISMUS (Zoo als einen Marker) ──────────────────────────────────────────
+# Tourismus (Zoo als einen Marker)
 zoo_namen = {"Seehund","Schildkröten","Darvin-Nandus","Europäischer Fischotter",
     "Hauskamel/Trampeltier","Vikunja","Alpaka","Grevyzebra","Kappengibbons",
     "Chileflamingo","Schwarzes Alpenschwein","Westafrikanische Zwergziegen",
@@ -76,7 +76,7 @@ for _, row in tourismus_pts.iterrows():
         fill=True, fill_color="#F59E0B", fill_opacity=0.06, weight=1,
     ).add_to(layer_tourismus)
 
-# ── VERLEIHE (alle 197 echten Stationen) ─────────────────────────────────────
+# Veloverleihe (alle 197 echten Stationen)
 for _, row in verleihe_pts.iterrows():
     name = str(row.get('name', 'Veloverleih'))
     if name == 'nan': name = 'Veloverleih'
@@ -87,7 +87,7 @@ for _, row in verleihe_pts.iterrows():
         tooltip=name,
     ).add_to(layer_verleihe)
 
-# ── HEATMAP (Bahnhöfe + Tourismus + Velowege) ────────────────────────────────
+# Heatmap (Bahnhöfe + Tourismus + Velowege)
 heatmap_punkte = []
 for _, row in bahnhoefe_pts.iterrows():
     heatmap_punkte.append([row.geometry.y, row.geometry.x, 1.0])
@@ -106,7 +106,7 @@ HeatMap(heatmap_punkte, name="🌡️ Heatmap Potenzial",
     gradient={"0.2": "#A8D5B5", "0.5": "#2D7D52", "0.8": "#1A4731", "1.0": "#FF4444"},
 ).add_to(karte)
 
-# ── TOP-3 (echte Scoring-Werte) ───────────────────────────────────────────────
+# Top 3
 top3_standorte = [
     {"rang": 1, "name": "Kreis 3 – Wiedikon", "lat": 47.3683, "lon": 8.5150, "score": 64.7,
      "begruendung": "Beste Kombination aus ÖV-Anbindung, Veloinfrastruktur und Bevölkerungsdichte. Wenig Konkurrenz.", "farbe": "#1A4731"},
@@ -133,7 +133,7 @@ for standort, medaille in zip(top3_standorte, medaillen):
         fill_opacity=0.12, weight=2.5, dash_array="8",
     ).add_to(layer_top3)
 
-# ── STADTKREISE ───────────────────────────────────────────────────────────────
+# Stadtkreise
 scoring_kreise = [
     {"name": "Kreis 1",  "lat": 47.3729, "lon": 8.5411, "score": 60.7},
     {"name": "Kreis 2",  "lat": 47.3600, "lon": 8.5250, "score": 61.2},
