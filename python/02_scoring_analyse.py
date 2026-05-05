@@ -1,12 +1,8 @@
 # ============================================================
 # VELOVERLEIH STANDORTANALYSE ZÜRICH
-# Person B – Scoring-Modell & Auswertung
 # ============================================================
 # Voraussetzungen (in GitHub Codespaces Terminal ausführen):
 #   pip install geopandas pandas matplotlib folium shapely
-#
-# Dieser Code berechnet ein gewichtetes Scoring pro Stadtkreis.
-# Alle Werte basieren auf echten Geodaten aus QGIS & OSM!
 # ============================================================
 
 import pandas as pd
@@ -14,8 +10,7 @@ import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
 import numpy as np
 
-# ── SCHRITT 1: Scoring-Daten ──────────────────────────────────────────────────
-# ✅ ALLE WERTE BASIEREN AUF ECHTEN DATEN:
+# Alle Werte basieren auf echten Daten:
 # OeV_Anbindung:    gezählt aus bahnhoefe_2056.gpkg (railway=station)
 # Tourismus:        gezählt aus tourismus_2056.gpkg (tourism=attraction)
 # Keine_Konkurrenz: gezählt aus verleihe_2056.gpkg (amenity=bicycle_rental), invertiert
@@ -38,23 +33,23 @@ data = {
         "Kreis 12 (Schwamendingen)",
     ],
 
-    # ✅ Aus bahnhoefe_2056.gpkg gezählt & normalisiert (30% Gewicht)
+    # Aus bahnhoefe_2056.gpkg gezählt & normalisiert (30% Gewicht)
     # Rohdaten: [5, 5, 5, 2, 3, 2, 2, 1, 1, 1, 3, 1]
     "OeV_Anbindung": [10.0, 10.0, 10.0, 3.2, 5.5, 3.2, 3.2, 1.0, 1.0, 1.0, 5.5, 1.0],
 
-    # ✅ Einschätzung basierend auf Velowege-Layer aus QGIS (25% Gewicht)
+    # Einschätzung basierend auf Velowege-Layer aus QGIS (25% Gewicht)
     "Veloinfrastruktur": [8.0, 7.0, 7.0, 8.0, 6.0, 9.0, 6.0, 7.0, 5.0, 6.0, 6.0, 4.0],
 
-    # ✅ Aus statistik.stadt-zuerich.ch, normalisiert auf 0-10 (20% Gewicht)
+    # Aus statistik.stadt-zuerich.ch, normalisiert auf 0-10 (20% Gewicht)
     # Rohdaten (P/ha): [31.9, 34.7, 59.7, 101.1, 79.9, 71.7, 26.7, 37.3, 50.7, 45.9, 60.3, 35.0]
     "Bevoelkerungsdichte": [1.6, 2.0, 5.0, 10.0, 7.4, 6.4, 1.0, 2.3, 3.9, 3.3, 5.1, 2.0],
 
-    # ✅ Aus tourismus_2056.gpkg gezählt & normalisiert (15% Gewicht)
+    # Aus tourismus_2056.gpkg gezählt & normalisiert (15% Gewicht)
     # Rohdaten: [4, 1, 0, 1, 0, 0, 49, 1, 0, 1, 2, 1]
     # Hinweis: Kreis 7 hat Zoo Zürich → sehr viele POIs
     "Tourismus_Hotspots": [1.7, 1.2, 1.0, 1.2, 1.0, 1.0, 10.0, 1.2, 1.0, 1.2, 1.4, 1.2],
 
-    # ✅ Aus verleihe_2056.gpkg gezählt, invertiert & normalisiert (10% Gewicht)
+    # Aus verleihe_2056.gpkg gezählt, invertiert & normalisiert (10% Gewicht)
     # Rohdaten: [20, 13, 18, 19, 16, 18, 13, 8, 20, 12, 29, 11]
     # Weniger Verleihe = höherer Score (mehr Marktpotenzial)
     "Keine_Konkurrenz": [4.9, 7.9, 5.7, 5.3, 6.6, 5.7, 7.9, 10.0, 4.9, 8.3, 1.0, 8.7],
@@ -62,7 +57,6 @@ data = {
 
 df = pd.DataFrame(data)
 
-# ── SCHRITT 2: Gewichtetes Scoring berechnen ──────────────────────────────────
 gewichte = {
     "OeV_Anbindung":       0.30,
     "Veloinfrastruktur":   0.25,
@@ -87,7 +81,7 @@ print("\nTop-3 Empfehlungen:")
 for _, row in df.head(3).iterrows():
     print(f"  #{int(row['Rang'])}: {row['Stadtkreis']} – Score: {row['Gesamtscore']:.1f}/100")
 
-# ── SCHRITT 3: Balkendiagramm ─────────────────────────────────────────────────
+# Balkendiagramm
 fig, ax = plt.subplots(figsize=(11, 7))
 colors = ["#1A4731" if i < 3 else "#A8D5B5" for i in range(len(df))]
 bars = ax.barh(df["Stadtkreis"], df["Gesamtscore"], color=colors, edgecolor="white", height=0.65)
@@ -118,7 +112,7 @@ plt.savefig("scoring_balkendiagramm.png", dpi=150, bbox_inches="tight")
 print("\n✅ Diagramm gespeichert: scoring_balkendiagramm.png")
 plt.show()
 
-# ── SCHRITT 4: Radar-Diagramm für Top-3 ──────────────────────────────────────
+# Radar-Diagramm für Top-3
 kategorien = ["ÖV-\nAnbindung", "Velo-\ninfrastruktur", "Bevölkerungs-\ndichte",
               "Tourismus-\nHotspots", "Keine\nKonkurrenz"]
 N = len(kategorien)
