@@ -202,10 +202,4 @@ Gewichtetes Scoring pro Stadtkreis basierend auf 5 Kriterien:
 
 ---
 
-## 👥 Gruppe
 
-| Person | Aufgabe |
-|---|---|
-| Delia Troncato | QGIS-Analyse, Geodaten, Buffer, Heatmap |
-| [Name Person B] | Python Scoring-Modell, Diagramme, Auswertung |
-| [Name Person C] | Interaktive Web-Karte (Folium), Präsentation |
